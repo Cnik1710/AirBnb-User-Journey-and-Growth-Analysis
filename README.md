@@ -1,1 +1,1 @@
-# AirBnb-User-Journey-and-Growth-Analysis
+# AirBnb - User Journey & Growth Analysis
