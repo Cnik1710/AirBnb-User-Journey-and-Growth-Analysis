@@ -1,0 +1,1001 @@
+id,date_account_created,date_first_booking,gender,age,signup_method,signup_flow,language,affiliate_channel,affiliate_provider,first_affiliate_tracked,signup_app,first_device_type,first_browser,country_destination
+gxq8ex2ab3,07-08-2013,21-03-2014,MALE,43,facebook,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",FR
+7sr5tm96hp,26-09-2012,,MALE,70,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+kx0qze2hlg,20-01-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+5h6be8oqo9,28-09-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+q87b8mnlb3,27-03-2014,28-03-2014,FEMALE,32,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+oj1xbw8iaz,15-10-2012,,FEMALE,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+qvah138kpf,20-04-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+ozuuxukkiu,10-10-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+iva002tiii,11-06-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+pcrac6kklt,15-03-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+bxcypyjf7r,25-11-2013,,FEMALE,24,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+kyau1lr283,16-07-2013,16-07-2013,FEMALE,51,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+sys5mwklpb,21-09-2013,01-10-2013,MALE,32,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+cpdspzsjaw,04-05-2014,08-05-2014,FEMALE,25,facebook,0,en,direct,direct,tracked-other,Web,"Mac Desktop",Safari,US
+ps7xapzydg,04-06-2014,,MALE,34,facebook,25,en,direct,direct,omg,iOS,"Mac Desktop",Chrome,NDF
+rep00rc9lg,26-01-2014,22-04-2014,MALE,36,basic,25,en,direct,direct,untracked,iOS,"Mac Desktop",Chrome,US
+zuxccuawci,22-03-2014,,,NULL,basic,23,en,direct,direct,untracked,Android,Other/Unknown,,NDF
+rb7puxu2lq,29-02-2012,,MALE,31,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,NDF
+76e6ct651a,21-08-2012,21-08-2012,MALE,29,facebook,0,en,direct,direct,linked,Web,"Desktop (Other)",Chrome,DE
+6u3wxlzt8b,20-04-2012,,MALE,52,basic,0,en,other,craigslist,linked,Web,"Windows Desktop",IE,NDF
+e6bbaxa9fn,05-02-2013,09-02-2013,MALE,40,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+a70lx0wj4q,15-10-2013,,,NULL,basic,0,en,direct,direct,omg,Web,"Mac Desktop",Safari,NDF
+4hrxgx437n,20-01-2014,,FEMALE,51,facebook,12,en,api,other,untracked,iOS,iPad,,NDF
+pd0b68pdpb,11-07-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+5253yxh6tr,01-12-2013,,FEMALE,46,facebook,12,es,api,other,untracked,Android,Other/Unknown,,NDF
+ox6gccaa4a,10-09-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,NDF
+0lqedrdhxe,25-05-2013,10-02-2014,FEMALE,41,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+ca76da4y6a,14-10-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+9bug8k9k4n,13-05-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+fkxn7osevm,30-09-2011,30-09-2011,FEMALE,70,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+kb6gtyxdx0,30-04-2014,,,NULL,basic,0,en,sem-non-brand,google,untracked,Web,iPhone,,NDF
+gbck5i696f,06-10-2011,07-10-2011,MALE,33,facebook,2,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+a7ewm2v0c2,13-06-2012,21-06-2012,MALE,39,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,other
+07uin9lgpa,04-09-2013,11-10-2013,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,other
+sp3pjyk6gi,30-08-2011,,FEMALE,47,basic,3,en,seo,google,omg,Web,"Mac Desktop",Safari,NDF
+032321mzz2,28-12-2013,29-12-2013,MALE,44,facebook,12,en,api,other,untracked,iOS,iPhone,"Mobile Safari",other
+gr6ln84x3r,19-10-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+t3n5a6aoma,15-05-2014,,FEMALE,25,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+b4hbtrhwqs,05-08-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Firefox,NDF
+kjh9lju8os,02-06-2014,02-06-2014,MALE,NULL,facebook,24,en,direct,direct,untracked,Web,iPhone,"Mobile Safari",US
+hbsq6arbdv,16-01-2012,,,NULL,basic,3,en,direct,direct,untracked,Web,iPhone,"Mobile Safari",NDF
+3vh50ojuib,06-03-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+p44ax30wnb,03-05-2014,,,NULL,basic,24,en,direct,direct,linked,Moweb,iPhone,"Mobile Safari",NDF
+y7nt2yfvwh,01-09-2013,01-09-2013,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+0701si8r8i,06-05-2013,,FEMALE,42,facebook,0,en,direct,direct,omg,Web,"Desktop (Other)",Firefox,NDF
+jx44d7o2sk,13-12-2013,17-12-2013,FEMALE,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,US
+20s8sc1obi,12-10-2012,14-10-2012,FEMALE,30,basic,0,en,direct,direct,linked,Web,iPad,"Chrome Mobile",US
+rgxnxxr8cz,05-10-2012,05-10-2012,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+pf3b5x7eri,29-11-2013,,FEMALE,30,facebook,12,en,api,other,untracked,iOS,iPhone,,NDF
+yiu23hna9l,30-12-2011,18-08-2012,MALE,NULL,basic,2,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,other
+2upqmrpbww,02-09-2012,,FEMALE,52,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+6lk8qb4sa8,05-08-2013,,MALE,52,facebook,0,en,sem-brand,google,untracked,Web,"Windows Desktop",Chrome,NDF
+3aq2p0iwbr,03-10-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,iPhone,"Mobile Safari",NDF
+qdyvysduna,12-05-2014,15-05-2014,FEMALE,41,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,US
+4qzdojzf6j,11-04-2012,28-04-2012,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,US
+1dk4dy4yyw,15-03-2012,,FEMALE,39,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,NDF
+nftvip3nay,15-08-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+tyso8mtiay,25-06-2014,29-06-2014,MALE,26,facebook,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,other
+mgcmj4xa3k,26-09-2011,,MALE,42,facebook,2,en,other,other,untracked,Web,"Android Tablet",IE,NDF
+1sogse63m9,25-01-2013,26-01-2013,FEMALE,2014,basic,0,en,sem-brand,google,untracked,Web,iPhone,,IT
+sn5mu6bjyw,18-01-2014,28-01-2014,MALE,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+lridy8x5on,17-03-2014,,FEMALE,24,facebook,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+hk830t9v8m,21-08-2013,,,NULL,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,NDF
+62a3ijlhyx,13-01-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+0hk6n42alu,27-12-2013,,,NULL,basic,25,en,direct,direct,,iOS,Other/Unknown,,NDF
+op8wps7or3,11-11-2013,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+pzbiowm64v,22-01-2014,09-07-2014,MALE,42,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+p8mnbgupwn,23-01-2012,22-02-2012,FEMALE,38,basic,2,en,direct,direct,,Web,Other/Unknown,,US
+wmwg6j1ote,09-01-2013,,FEMALE,34,facebook,0,en,sem-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+uzoilfo1kp,08-09-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+s5w0lwh1jy,31-08-2012,05-09-2012,FEMALE,32,basic,12,en,api,other,linked,Moweb,"Mac Desktop",Chrome,FR
+o4bglqejra,09-05-2014,,FEMALE,64,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+n310dr6m4x,27-07-2012,,FEMALE,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+f1him814fk,14-04-2014,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+srw98dgu4h,08-05-2013,01-02-2014,FEMALE,23,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+fmizfivc4d,03-02-2014,05-02-2014,MALE,53,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,GB
+84cdcj2f54,01-03-2013,,,NULL,basic,23,en,direct,direct,untracked,Android,iPhone,,NDF
+n3r7vhb9y3,10-06-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,iPhone,"Mobile Safari",NDF
+7cqupc9qaf,29-08-2012,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+0ncu3dj1wv,20-02-2013,20-02-2013,MALE,34,facebook,0,en,other,facebook-open-graph,tracked-other,Web,"Mac Desktop",Safari,US
+hjcyml32fg,29-04-2014,22-01-2015,,38,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+vae8ci18ge,20-11-2013,,,NULL,basic,25,en,direct,direct,,iOS,Other/Unknown,,NDF
+rjb4yu3yu1,12-05-2012,31-07-2012,FEMALE,33,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,US
+55p1zx8fvm,29-11-2010,30-11-2010,,NULL,basic,3,en,seo,google,untracked,Web,"Mac Desktop",Chrome,US
+u3av6wc0x7,09-06-2014,09-06-2014,FEMALE,59,basic,0,en,seo,google,untracked,Web,"Windows Desktop",Chrome,US
+1ktv8clqqr,18-06-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+3vumzsyhk4,08-07-2011,15-07-2011,FEMALE,32,facebook,2,en,direct,direct,tracked-other,Web,"Mac Desktop",Firefox,US
+fc1t8n5ekh,25-12-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,iPad,"Chrome Mobile",NDF
+pk2s1s54ds,13-06-2014,13-06-2014,MALE,23,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,US
+c5d8xwo30t,15-08-2012,24-08-2012,MALE,33,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,other
+qrx7ur0tgm,21-09-2012,,FEMALE,33,facebook,0,en,content,facebook,untracked,Web,"Android Phone","Android Browser",NDF
+5837umimt5,02-02-2012,02-02-2012,FEMALE,37,basic,3,en,sem-non-brand,google,linked,Web,iPhone,"Mobile Safari",US
+vbmo9glimb,07-03-2012,08-06-2012,FEMALE,25,facebook,3,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,other
+xdqcecp9ht,03-03-2012,04-04-2012,,34,basic,0,en,sem-non-brand,google,untracked,Web,"Mac Desktop",Safari,US
+deaqemncqn,21-05-2013,,FEMALE,24,basic,0,en,direct,direct,tracked-other,Web,"Windows Desktop",Chrome,NDF
+ybxpdjreli,19-08-2013,,FEMALE,36,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+d169jztfw5,30-06-2013,24-12-2013,FEMALE,34,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+u2ekydn8si,02-06-2013,02-06-2013,,54,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,US
+ts37mcxezz,14-05-2014,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+wq9sqxxl9r,01-09-2011,,FEMALE,39,facebook,2,en,remarketing,google,untracked,Web,"Mac Desktop",Safari,NDF
+s99gnqesma,22-10-2013,07-04-2014,FEMALE,33,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,US
+4wq4o4btaq,24-04-2014,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+avmp524v23,14-03-2012,15-03-2012,,NULL,basic,3,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+wgt4pvc0rt,31-05-2012,,,33,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+c101h6gail,17-04-2014,01-05-2014,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+7lq6336k60,14-04-2013,10-10-2013,MALE,28,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+zyiuo6znlz,25-02-2014,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",IE,NDF
+6mus33eur4,23-05-2013,23-05-2013,FEMALE,38,facebook,0,en,other,facebook-open-graph,tracked-other,Web,"Mac Desktop",Chrome,FR
+1br7ao4orv,19-11-2012,19-10-2013,MALE,38,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+1kdik52o5c,09-06-2014,,,NULL,basic,24,en,direct,direct,untracked,Moweb,"Android Phone","Chrome Mobile",NDF
+w8kqcn8g2u,01-05-2013,,MALE,26,facebook,0,zh,sem-brand,google,omg,Web,"Windows Desktop",IE,NDF
+72lwawl7w2,21-05-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+22br6zetvc,20-01-2014,,MALE,22,facebook,12,en,api,other,untracked,iOS,"Mac Desktop",Firefox,NDF
+g1p9bwr6v9,04-11-2012,,MALE,61,basic,0,en,sem-non-brand,google,untracked,Web,"Windows Desktop",Firefox,NDF
+vvzp80ob30,27-09-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+u2u2jbute2,28-09-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+otb5ezg1yb,31-08-2011,,FEMALE,35,facebook,0,en,sem-brand,google,untracked,Web,"Windows Desktop",IE,NDF
+ht49q2bhve,26-07-2013,10-08-2013,FEMALE,41,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,US
+4rlnjuew8z,31-07-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,NDF
+87f8n0dpu4,09-05-2014,18-08-2014,,28,basic,25,en,direct,direct,untracked,iOS,iPhone,,US
+krl1lhle1z,03-12-2013,03-12-2013,MALE,27,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+qzm7bxn6el,14-04-2013,,MALE,25,facebook,0,en,direct,direct,omg,Web,"Windows Desktop",Chrome,NDF
+asn3l2woly,30-04-2013,,,NULL,basic,0,en,sem-brand,google,untracked,Web,"Windows Desktop",Firefox,NDF
+0co6s86hgb,30-06-2014,13-04-2015,MALE,41,facebook,0,en,other,padmapper,omg,Web,"Mac Desktop",Safari,GB
+whp8zw65w2,09-06-2013,,FEMALE,74,basic,0,en,sem-non-brand,bing,omg,Web,"Windows Desktop",IE,NDF
+8o7s6us1vl,09-02-2012,,MALE,28,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+1ging98cd0,24-06-2012,12-07-2012,MALE,34,facebook,0,en,other,craigslist,linked,Web,"Mac Desktop",Chrome,US
+tggnzg203u,28-12-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+qrwi5wvcg8,24-03-2014,,MALE,58,facebook,0,en,remarketing,google,linked,Web,"Mac Desktop",Safari,NDF
+ll59eo9z6l,29-07-2012,14-05-2013,MALE,49,facebook,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,US
+p4v0lnpvus,17-01-2011,,,NULL,basic,1,en,direct,direct,,Web,Other/Unknown,,NDF
+ah0z7jqwc5,09-11-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+bip7ewohy0,04-02-2013,,MALE,34,facebook,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",NDF
+njqsftn7mc,04-11-2013,,MALE,43,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,NDF
+9607xhhft1,28-06-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+h5qz78okt3,17-01-2013,28-01-2013,FEMALE,30,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,US
+5sk4p5rubp,04-12-2013,05-12-2013,FEMALE,29,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+gpkuz7rmd5,20-11-2010,,,NULL,basic,2,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+p6b8pguj90,19-06-2014,,FEMALE,52,basic,0,en,direct,direct,omg,Web,"Mac Desktop",Safari,NDF
+7s8wkp5k2w,30-06-2013,30-06-2013,FEMALE,42,facebook,0,en,sem-non-brand,google,linked,Web,"Mac Desktop",Safari,US
+3u9qecwwlv,20-09-2013,31-07-2014,FEMALE,41,basic,23,en,direct,direct,untracked,Android,Other/Unknown,,US
+h9yhcstxbj,26-04-2014,29-04-2014,FEMALE,22,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,FR
+yv1bfh0hy0,27-11-2013,,FEMALE,25,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+uoj6hxtoa8,09-04-2013,,,NULL,basic,0,en,direct,direct,omg,Web,"Windows Desktop",Firefox,NDF
+gzftdjnocd,13-11-2012,,FEMALE,33,basic,0,en,other,other,product,Web,"Mac Desktop",Safari,NDF
+1v7hy2wld6,08-09-2013,,FEMALE,62,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+7jedtmypqn,06-06-2013,23-08-2013,FEMALE,28,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+2n9h0a305t,12-12-2013,,,NULL,basic,0,en,sem-non-brand,bing,omg,Web,"Windows Desktop",Chrome,NDF
+bedqcsbicq,14-04-2013,21-05-2013,FEMALE,36,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,other
+624feg4oln,05-02-2014,09-02-2014,FEMALE,23,basic,23,en,direct,direct,untracked,Android,Other/Unknown,,US
+eidh1mbbqa,20-05-2014,25-05-2014,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,US
+f23emjwn8d,25-02-2013,,FEMALE,55,facebook,0,zh,content,facebook,omg,Web,"Android Tablet",IE,NDF
+zepl157tq4,18-09-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+g601jkiyhl,20-04-2014,,MALE,53,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+cosl33i4gv,05-02-2014,20-02-2014,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,FR
+tr6o7bxx1t,14-06-2013,03-03-2014,FEMALE,26,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,FR
+7lwkjtnexj,11-07-2013,17-07-2013,MALE,41,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,DE
+58a9s26csc,27-03-2012,27-03-2012,FEMALE,33,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,US
+93iuxjwhns,17-12-2012,,FEMALE,26,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,NDF
+74gwhnldgn,19-11-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+tw3x7gpcw1,27-10-2013,30-10-2013,,29,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+jbz544bqyi,23-03-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+onmmal4a38,02-09-2013,07-09-2013,FEMALE,21,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Firefox,US
+u76njcr6zn,29-11-2013,,MALE,33,facebook,12,en,api,other,untracked,iOS,"Windows Desktop",Chrome,NDF
+c2s5rn9jw1,23-08-2012,,FEMALE,48,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+jm8b1na12d,11-03-2013,11-03-2013,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,other
+tl083q7s2o,07-11-2011,,FEMALE,48,facebook,0,en,direct,direct,tracked-other,Web,"Mac Desktop",Safari,NDF
+hip99jmgcy,27-05-2013,20-06-2013,FEMALE,30,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+zl30uuvsaa,19-07-2012,,,2014,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+ycuhk2o06h,20-09-2012,,,NULL,basic,0,en,other,meetup,tracked-other,Web,"Windows Desktop",IE,NDF
+21cdyd2z56,16-01-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+urthuqlgcn,28-05-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+q5nfe74h46,09-06-2014,,FEMALE,28,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+zp4saso0qq,26-02-2013,26-02-2013,MALE,30,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,US
+2ixvfk5v5w,23-04-2014,,FEMALE,2014,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+vcswclscq3,08-05-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+xxy4iml0dm,04-06-2013,14-06-2013,FEMALE,45,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",IE,other
+yq6vin7d4i,26-05-2011,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+i5oc71s3mc,07-02-2014,,MALE,32,basic,0,pt,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+pcjve6o1g1,27-02-2014,,MALE,51,facebook,12,en,api,other,untracked,iOS,iPhone,,NDF
+kotdt4da71,25-02-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+euvru88y9t,27-11-2013,06-12-2013,FEMALE,60,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+wsipfmrbom,03-06-2012,03-06-2012,,NULL,basic,3,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+3r9qi0kov1,23-10-2013,23-10-2013,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+b0bpizwr6z,14-04-2014,,FEMALE,56,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+xpvwlaf68d,03-03-2014,03-03-2014,MALE,26,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+nth0cofdmt,04-12-2013,,MALE,29,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",IE,NDF
+yxhxukq7dp,01-07-2013,,MALE,27,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+yjqhz4dm4k,28-06-2014,,FEMALE,29,facebook,25,en,direct,direct,linked,iOS,iPhone,"Mobile Safari",NDF
+cgqfzthesg,03-03-2011,,,NULL,basic,3,en,direct,direct,untracked,Web,iPad,,NDF
+dmnhcrpzan,03-12-2013,,,NULL,basic,23,en,direct,direct,untracked,Android,Other/Unknown,,NDF
+n8297rupx2,09-06-2014,23-06-2014,MALE,30,basic,25,en,direct,direct,untracked,iOS,iPhone,,IT
+dsbb4id5c3,14-02-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+p2y1h1c2p1,20-07-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+u5axo3mc3m,05-08-2012,,FEMALE,23,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+cvogon6ps6,25-11-2013,,,NULL,basic,0,en,seo,yahoo,linked,Web,"Windows Desktop",Chrome,NDF
+jco5jmtmfa,30-12-2012,,,NULL,basic,0,en,content,facebook,omg,Web,"Windows Desktop",Chrome,NDF
+a19oh3v78b,18-07-2013,24-07-2013,,31,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+niul5zm61v,06-01-2011,28-01-2011,,28,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,other
+3mh00xpis5,26-04-2014,21-01-2015,FEMALE,36,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+dbgbfisexf,12-11-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+63npoctmyo,23-09-2013,,FEMALE,NULL,basic,24,en,direct,direct,linked,Moweb,iPhone,"Mobile Safari",NDF
+n0uta4z867,06-07-2013,20-05-2014,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+ir6vagixka,27-02-2014,27-02-2014,FEMALE,25,basic,0,en,sem-brand,google,untracked,Web,iPhone,,other
+mjo6eg3es0,08-11-2013,,MALE,32,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+fk3nt1t8bk,11-10-2013,,MALE,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+as8tkjsbsq,25-02-2014,,FEMALE,60,facebook,0,en,content,google,omg,Web,"Mac Desktop",Chrome,NDF
+il867tmbbg,23-09-2013,22-06-2014,FEMALE,30,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,FR
+h6baqjjbld,13-03-2014,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+1yaru2zy7p,01-04-2013,02-04-2013,FEMALE,35,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,GB
+g71e112rnz,10-12-2013,11-12-2013,FEMALE,28,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+wu6r2ta9v3,30-04-2014,30-04-2014,FEMALE,29,facebook,25,en,direct,direct,untracked,iOS,iPhone,,US
+dvp2je5fsy,22-07-2013,09-08-2013,MALE,30,facebook,12,en,api,other,untracked,Moweb,iPhone,"Mobile Safari",US
+8c47wvvrgh,23-10-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+nt4bep1fyd,22-08-2013,17-01-2014,FEMALE,39,facebook,0,en,direct,direct,untracked,Web,"Android Phone","Chrome Mobile",other
+71dw7cmmre,06-09-2012,18-03-2013,FEMALE,NULL,basic,0,en,sem-non-brand,google,omg,Web,iPad,"Mobile Safari",US
+xp71ss8u8w,10-02-2014,,,NULL,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,NDF
+7uyykkc90z,30-07-2012,,MALE,35,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+pcannw9cnp,18-06-2013,,MALE,31,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+m8nqlqvo0v,03-06-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",IE,NDF
+9mf0l61ict,21-11-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+du0eb3aozl,07-06-2014,11-08-2014,,19,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",other
+1cng0i8rsz,24-04-2014,16-05-2014,FEMALE,24,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,FR
+5u7h6nyddw,04-04-2013,,FEMALE,71,basic,0,en,direct,direct,untracked,Web,"Android Phone","Android Browser",NDF
+9sbuqx3zxo,09-04-2014,12-04-2014,MALE,48,basic,0,en,sem-non-brand,google,tracked-other,Web,"Mac Desktop",Safari,US
+5f3nc0eu58,27-01-2014,,,46,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+w3uvw0elg9,19-03-2013,,,NULL,basic,0,en,direct,direct,linked,Web,iPad,"Mobile Safari",NDF
+a83vucw4or,09-04-2014,,FEMALE,18,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Firefox,NDF
+ibtc2g4938,01-07-2012,01-07-2012,MALE,42,basic,3,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+ldioduvs6h,09-02-2014,11-02-2014,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+nzshvyu20p,28-05-2013,,MALE,37,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,NDF
+gvcy1azuoo,27-05-2013,29-05-2013,FEMALE,37,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+19i7wy7twr,22-12-2013,,,NULL,basic,25,en,direct,direct,,iOS,Other/Unknown,,NDF
+i51elnocwc,13-02-2013,14-02-2013,FEMALE,27,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+0ajdbp5orf,08-04-2014,12-04-2014,FEMALE,50,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,FR
+a8nghmon4i,21-08-2012,,MALE,32,facebook,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+sqsw5qmfmd,24-01-2013,03-07-2013,,38,basic,0,en,sem-brand,google,untracked,Web,iPad,"Mobile Safari",IT
+z7h4z6ws32,31-05-2014,,,NULL,google,12,en,direct,direct,untracked,Android,"Android Phone",,NDF
+1iqkmdb6hi,25-05-2012,01-12-2012,FEMALE,33,facebook,0,en,other,craigslist,tracked-other,Web,"Mac Desktop",Safari,US
+dku55e7vnk,13-04-2014,15-04-2014,,40,basic,0,en,seo,google,linked,Web,iPad,"Mobile Safari",US
+2ibgjvjjtx,05-04-2012,31-12-2012,FEMALE,33,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+i7c7r09kh7,02-07-2013,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+32v0exrryn,02-06-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+wz6dvmo04k,26-10-2011,30-10-2011,FEMALE,36,basic,2,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+q1j0o4uawi,14-08-2013,17-08-2013,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,FR
+kctvku5b8e,08-02-2014,08-02-2014,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",IE,US
+48tqd9ytn4,28-04-2014,,MALE,52,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+h3o5l1qzmg,19-05-2014,02-07-2014,,25,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,US
+btkt0p5jnv,23-07-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+pcya95glmf,16-05-2013,,,NULL,basic,24,en,direct,direct,,Moweb,Other/Unknown,,NDF
+uaumyukr2p,12-10-2012,,FEMALE,24,facebook,0,en,direct,direct,product,Web,"Windows Desktop",Chrome,NDF
+lhbd14gnc8,28-07-2011,28-07-2011,MALE,NULL,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+4n9hk9c4ai,21-06-2013,,,38,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+cndpfkku19,20-06-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+8dj4jih4uc,26-04-2013,,FEMALE,39,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+23acoj45g2,24-02-2011,15-10-2011,MALE,55,facebook,2,en,other,craigslist,linked,Web,"Mac Desktop",Chrome,FR
+2no22t6t5j,10-01-2014,,MALE,30,facebook,0,de,direct,direct,omg,Web,"Windows Desktop",Chrome,NDF
+vifouh9wsq,18-05-2014,,MALE,54,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+0kruqld6v3,23-12-2013,,,NULL,basic,25,en,direct,direct,,iOS,Other/Unknown,,NDF
+4f4yjviipp,17-09-2013,,,NULL,basic,0,en,direct,direct,omg,Web,"Windows Desktop",Firefox,NDF
+u3e0gtitf5,07-05-2011,,,NULL,basic,2,en,direct,direct,,Web,Other/Unknown,,NDF
+qhd7nrm7z3,25-02-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+uefo2qylx5,18-07-2012,,FEMALE,26,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+gdw6m2nonb,01-03-2013,,MALE,34,basic,0,en,sem-brand,google,omg,Web,"Android Tablet",IE,NDF
+848szqd6bl,17-03-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+2qyahe6duz,08-04-2014,08-04-2014,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,IT
+xeqzke218x,25-07-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+av21g1w5gn,13-05-2014,,,NULL,google,12,en,direct,direct,untracked,Android,"Android Phone",,NDF
+w8edry69t8,14-09-2013,26-10-2013,,30,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,other
+1wwr1zp6rg,12-01-2013,,FEMALE,32,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+eufsth2kzi,22-09-2013,22-09-2013,MALE,24,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+9m6vd6gp6j,29-06-2012,,FEMALE,NULL,basic,3,en,direct,direct,linked,Web,iPhone,"Mobile Safari",NDF
+68if218hry,29-09-2011,,,NULL,basic,2,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+c5g7uk7e5g,30-07-2013,,MALE,23,basic,0,en,seo,google,linked,Web,"Windows Desktop",Chrome,NDF
+yr8vvkf2nk,31-08-2013,,,31,basic,24,en,direct,direct,omg,Moweb,iPad,"Mobile Safari",NDF
+fpyrla8zdm,25-05-2013,28-05-2013,FEMALE,28,basic,25,en,direct,direct,untracked,iOS,iPhone,,IT
+tqn6y7ri1c,02-12-2013,,FEMALE,50,basic,0,en,sem-brand,google,linked,Web,"Windows Desktop",Chrome,NDF
+cmw6llfpns,25-04-2013,22-04-2014,,29,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,other
+1v1ono5a85,01-12-2013,08-03-2014,,24,basic,0,en,seo,facebook,untracked,Web,"Mac Desktop",Chrome,other
+qqxj5m6pr3,09-11-2011,,FEMALE,46,facebook,2,en,sem-non-brand,google,linked,Web,"Mac Desktop",Safari,NDF
+nuszxk5obs,14-12-2013,,MALE,32,basic,25,en,direct,direct,untracked,iOS,iPhone,"Mobile Safari",NDF
+cj5k9lwgr8,06-05-2014,08-05-2014,,30,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,US
+onwq40641b,11-03-2014,,,28,basic,12,en,api,other,untracked,Android,Other/Unknown,,NDF
+s6qbmg9u9e,20-05-2013,,MALE,31,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+r7qqx0zf3t,18-05-2013,,MALE,32,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+k8t8rpgzfe,18-08-2013,,MALE,21,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+1hgbjt425d,18-10-2010,18-10-2010,,NULL,basic,2,en,other,craigslist,untracked,Web,"Windows Desktop",IE,US
+a1d8s4l6z9,30-11-2013,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+ve428rwjc5,22-11-2013,21-02-2014,MALE,27,facebook,0,en,other,padmapper,tracked-other,Web,"Mac Desktop",Chrome,other
+76c5eqhbgo,05-02-2014,,,26,basic,0,en,other,padmapper,tracked-other,Web,"Windows Desktop",Chrome,NDF
+kfbdj7iqm9,03-10-2013,03-10-2013,,NULL,basic,0,en,seo,bing,linked,Web,"Windows Desktop",IE,US
+4vbd4zhye2,28-12-2012,,FEMALE,32,facebook,0,en,sem-non-brand,vast,omg,Web,"Windows Desktop",IE,NDF
+k692myumu5,18-09-2010,,,NULL,basic,3,en,sem-non-brand,google,,Web,Other/Unknown,,NDF
+6udooo603s,02-04-2014,,,NULL,basic,25,en,direct,direct,,iOS,Other/Unknown,,NDF
+511jio55j1,22-03-2014,14-08-2014,,62,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+6tscz4la7n,23-03-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,iPhone,"Mobile Safari",NDF
+fh73c2ox77,24-08-2010,,,26,facebook,2,en,other,craigslist,,Web,Other/Unknown,,NDF
+ea79ub1xqm,27-06-2014,,FEMALE,32,facebook,25,en,direct,direct,untracked,iOS,iPhone,"Chrome Mobile",NDF
+4hogd95dwm,14-03-2013,15-03-2013,MALE,63,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,US
+e0zrc5jmyc,12-01-2013,,MALE,29,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+g0qmus7ns7,18-07-2013,,,NULL,basic,24,en,direct,direct,tracked-other,Moweb,"Mac Desktop",Chrome,NDF
+k64qr5c4d4,13-03-2012,20-03-2012,,33,basic,0,en,other,other,untracked,Web,"Mac Desktop",Safari,US
+g3vzpkgq1u,07-07-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+ki6m46fc9x,06-06-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+de9wkdw1aw,22-03-2013,24-03-2013,MALE,64,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Firefox,FR
+az6x1kjaht,11-04-2014,03-10-2014,FEMALE,35,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,US
+qznp1biz5t,21-09-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",NDF
+q0msrxjti4,10-06-2014,,,NULL,basic,24,en,direct,direct,untracked,iOS,iPhone,,NDF
+ldi2k34b5u,21-04-2011,,,NULL,basic,2,en,seo,google,untracked,Web,iPhone,"Mobile Safari",NDF
+qo1cu4b6v2,08-09-2012,,MALE,20,facebook,0,en,seo,facebook,linked,Web,"Windows Desktop",IE,NDF
+2y2ctq8m04,10-05-2014,,FEMALE,105,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+8dhpc6h0gy,24-12-2013,27-03-2014,FEMALE,26,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,US
+0ll6bfts72,21-04-2014,,MALE,28,facebook,12,en,direct,direct,untracked,iOS,iPhone,,NDF
+ehi8oyqrsb,21-06-2014,,FEMALE,35,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+j62qjw38x0,17-10-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+miq5t4uki8,25-06-2014,25-06-2014,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Desktop (Other)",Chrome,US
+y00supv400,19-03-2012,04-05-2012,MALE,47,basic,0,en,other,craigslist,untracked,Web,"Mac Desktop",Safari,CA
+91wz1z3ty9,04-10-2012,,FEMALE,31,facebook,0,en,other,craigslist,tracked-other,Web,"Windows Desktop",Chrome,NDF
+o4p7sgas78,18-01-2013,,FEMALE,26,facebook,12,en,api,other,untracked,iOS,iPhone,,NDF
+d6zkcwh5yj,19-10-2013,,FEMALE,50,facebook,0,en,seo,facebook,untracked,Web,"Windows Desktop",Chrome,NDF
+oqyto9q5i8,06-06-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+t95awm2lyf,28-08-2013,,FEMALE,25,facebook,0,en,sem-brand,google,linked,Web,"Mac Desktop",Safari,NDF
+ew7b4ypkpj,08-04-2014,,MALE,39,facebook,0,en,sem-brand,google,untracked,Web,iPhone,,NDF
+pm16b73bft,04-11-2013,,,NULL,basic,0,en,direct,direct,tracked-other,Web,"Windows Desktop",Firefox,NDF
+m0lhcrcc13,15-05-2014,19-05-2014,FEMALE,NULL,basic,0,en,seo,google,untracked,Web,"Mac Desktop",Chrome,FR
+iwhtj32sga,23-12-2013,26-12-2013,FEMALE,28,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,US
+eg31goh0me,14-04-2014,03-07-2014,FEMALE,55,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",other
+uxsgm9ct7d,17-06-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+k8j1syxbtz,03-02-2011,06-02-2011,,NULL,basic,2,en,direct,direct,untracked,Web,"Mac Desktop",Safari,other
+j1f2evns43,08-11-2011,23-09-2012,FEMALE,51,basic,2,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+55q1imx3cc,24-06-2014,,MALE,33,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+7bi9rfiwmm,26-04-2011,,,NULL,basic,3,en,sem-non-brand,google,linked,Web,"Mac Desktop",Safari,NDF
+ik5al463or,29-01-2014,,MALE,46,basic,0,en,direct,direct,linked,Web,"Windows Desktop",IE,NDF
+21tv9wbksp,11-03-2014,,,NULL,basic,0,en,sem-brand,google,linked,Web,"Windows Desktop",Firefox,NDF
+25qkuceziz,06-09-2013,06-09-2013,MALE,29,facebook,12,en,api,other,untracked,iOS,iPhone,,US
+kpk26944qu,05-05-2012,05-05-2012,,NULL,basic,3,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,US
+kvyuq0pneo,23-12-2012,,,55,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+ir4hv5vbsv,24-05-2014,,,NULL,google,12,en,direct,direct,untracked,Android,"Android Phone",,NDF
+v14dbnjn11,07-09-2013,,,NULL,basic,12,en,api,other,untracked,Android,Other/Unknown,,NDF
+967k7eizn7,06-10-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+5lc9kul4ma,03-06-2014,04-06-2014,MALE,54,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,US
+eh0h8s64ch,02-08-2012,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+zr7h6tzfvr,16-10-2011,16-10-2011,MALE,42,basic,3,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,GB
+1iggsoj636,06-06-2013,07-06-2013,,27,basic,25,en,direct,direct,untracked,iOS,"Mac Desktop",Chrome,US
+q62rjwkvnc,24-04-2013,,FEMALE,39,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,NDF
+u1oxku3uxd,03-09-2012,,,NULL,basic,0,zh,direct,direct,untracked,Web,iPad,"Mobile Safari",NDF
+br3594im4y,09-11-2013,,MALE,50,basic,0,en,seo,google,linked,Web,"Windows Desktop",Chrome,NDF
+222imtbtx9,19-02-2013,15-06-2013,FEMALE,39,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,FR
+u8vopkok0r,01-02-2012,,FEMALE,NULL,basic,0,en,other,other,untracked,Web,"Mac Desktop",Safari,NDF
+kjciu00fgz,15-05-2014,11-06-2014,,50,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+tk9gu50kan,20-04-2014,,MALE,49,basic,0,en,seo,bing,linked,Web,"Mac Desktop",Safari,NDF
+kxbk1lwqg4,05-12-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+yzy1petaq3,18-05-2010,18-05-2010,,NULL,basic,3,en,direct,direct,,Web,Other/Unknown,,US
+bankcuuoyv,10-05-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+3xyp31u1nk,06-10-2013,,MALE,43,facebook,0,en,content,google,omg,Web,"Mac Desktop",Safari,NDF
+qistp4c5w6,15-08-2013,,,NULL,basic,0,es,direct,direct,tracked-other,Web,"Mac Desktop",Safari,NDF
+vv8673ru94,21-03-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+d7i526m2jy,04-02-2014,05-02-2014,MALE,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,FR
+wgy88aaf4x,28-01-2014,,FEMALE,42,facebook,0,en,content,google,omg,Web,"Windows Desktop",Chrome,NDF
+7s3pr5l7y5,17-06-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+ocyrltzkoa,18-06-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+tdgfd4lcwc,01-05-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",NDF
+r6ebbww73h,30-09-2012,,MALE,33,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+6jimy7w7cd,21-12-2013,21-12-2013,,32,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+jdvvz4ci49,20-07-2013,,FEMALE,35,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+v7csvui91c,26-06-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+kaqyhb90hw,07-06-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+q6cep5yvro,28-04-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+bqt6xc7krv,05-06-2014,07-06-2014,MALE,40,basic,0,en,direct,direct,untracked,Web,iPhone,,US
+77j10m4yoc,04-07-2013,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+mird2uelo4,24-03-2014,,MALE,36,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+9oljy2uc3h,02-05-2012,,FEMALE,29,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+wl2zkgkqt3,02-10-2013,22-03-2014,FEMALE,28,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,other
+elbasbnzcm,24-06-2014,,MALE,25,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+o09jn6ty3p,14-04-2013,,FEMALE,25,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+9tlhhy034g,08-11-2013,30-05-2014,MALE,37,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,other
+26qhfd583e,29-03-2013,,MALE,33,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+v1880dj6ux,17-10-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+kqw1mo45c2,06-04-2014,07-01-2015,MALE,50,facebook,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Chrome,US
+wh3mwpbngz,15-05-2013,,,59,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+x1w0f9hrtd,25-04-2014,,FEMALE,69,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+aszw6foazl,05-02-2014,05-02-2014,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,IT
+u60k72qflv,06-03-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",IE,NDF
+s58mtq3ihq,13-06-2013,14-06-2013,FEMALE,29,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,GB
+mhbdh3rjny,06-06-2014,08-06-2014,FEMALE,48,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",IE,US
+492yfx23yj,26-02-2014,10-11-2014,MALE,27,basic,0,en,direct,direct,product,Web,"Windows Desktop",Chrome,US
+i4l07mpp0l,04-08-2013,04-08-2013,MALE,36,basic,0,en,seo,google,linked,Web,"Windows Desktop",Chrome,ES
+6954x5yo2x,30-07-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+4e8hdzehv4,10-04-2012,,FEMALE,32,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+qa86tkx74y,17-08-2013,,MALE,NULL,facebook,12,pt,api,other,untracked,Moweb,"Mac Desktop",Chrome,NDF
+myi7pta3po,14-06-2014,17-06-2014,MALE,23,facebook,0,en,seo,google,linked,Web,"Windows Desktop",Chrome,US
+79mjo1j02a,29-06-2012,,MALE,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+1jmpgngx8c,08-01-2014,09-01-2014,MALE,23,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+8g9hjctooi,23-09-2012,23-09-2012,,30,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",IT
+bqlewgvdkb,19-06-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+cwflf21e5j,29-04-2013,09-08-2013,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",IE,FR
+ae5res43re,26-01-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+th1dtciria,30-01-2014,,,NULL,basic,0,en,other,padmapper,tracked-other,Web,"Mac Desktop",Firefox,NDF
+n9uspyy7z8,10-12-2013,11-12-2013,,33,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,other
+n9sxwwi8al,25-03-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+m0ofkfnizk,24-06-2013,,FEMALE,61,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+vbs5k9pdpv,09-03-2014,28-01-2015,FEMALE,32,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+d33qk7zjsg,18-05-2014,09-06-2014,FEMALE,29,facebook,0,en,direct,direct,omg,Web,"Mac Desktop",Safari,FR
+308wn951v4,07-08-2013,08-08-2013,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+ix2ydwprj9,07-06-2014,,,NULL,basic,0,en,remarketing,google,linked,Web,"Mac Desktop",Safari,NDF
+2u21rx5f32,23-06-2014,,,NULL,basic,0,ru,direct,direct,untracked,Web,iPhone,"Mobile Safari",NDF
+eus4svda8q,12-09-2013,,,NULL,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,NDF
+htgzeabenj,16-04-2014,16-04-2014,MALE,51,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+lvsd90byiy,13-07-2013,07-02-2014,FEMALE,30,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+ro3v214538,17-09-2013,,FEMALE,62,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+ww9wlbtigz,07-08-2013,14-08-2013,FEMALE,36,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+qvzujv8v5b,26-03-2014,21-07-2014,FEMALE,57,basic,25,en,direct,direct,untracked,iOS,"Mac Desktop",Safari,US
+q54bxakvj9,28-05-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,NDF
+5h1kpyuvdq,18-10-2011,,,NULL,basic,2,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+an98gwypmr,12-04-2012,18-04-2012,FEMALE,33,basic,0,en,seo,other,untracked,Web,"Mac Desktop",Safari,US
+kf0ilp929b,18-05-2014,,FEMALE,23,google,12,en,direct,direct,untracked,Android,"Android Tablet",,NDF
+n2n6y2gnnf,03-10-2013,11-10-2013,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+g41mr94n82,21-07-2012,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+s87dlvsr6z,17-09-2012,,FEMALE,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+wxqsf90u2f,04-10-2013,04-10-2013,FEMALE,31,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+yvmxj6xcns,03-11-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPad,,NDF
+y9quhbg0cj,07-04-2014,08-04-2014,FEMALE,38,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,US
+m8ec71cxt4,03-10-2011,03-10-2011,,NULL,basic,3,en,direct,direct,,Web,Other/Unknown,,US
+n3z2d77v10,04-08-2013,05-08-2013,,NULL,basic,0,en,direct,direct,omg,Web,"Mac Desktop",Chrome,other
+w7925vva17,25-06-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+e86sqr2tzj,19-02-2014,20-02-2014,,NULL,basic,0,en,direct,direct,omg,Web,"Mac Desktop",Chrome,ES
+46ob64tjto,08-06-2014,08-06-2014,FEMALE,27,facebook,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",other
+ht3d5jb69w,17-08-2012,24-08-2012,MALE,88,facebook,3,en,remarketing,google,omg,Web,"Windows Desktop",IE,other
+ogo10k5ytg,26-09-2012,06-10-2012,FEMALE,NULL,basic,0,en,sem-non-brand,vast,omg,Web,"Windows Desktop",Chrome,US
+b4hr409v73,26-08-2013,,,NULL,basic,0,en,content,gsp,omg,Web,"Mac Desktop",Chrome,NDF
+f0snolwp37,20-05-2014,,FEMALE,29,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+dmue0icnla,23-04-2014,,,NULL,basic,0,en,sem-brand,google,linked,Web,iPad,"Mobile Safari",NDF
+czbex8gimx,26-11-2012,,FEMALE,29,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+tzs7oytopy,11-08-2013,,FEMALE,25,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+ood0b33esu,10-10-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+xhaul1c284,04-06-2014,04-06-2014,MALE,52,basic,24,en,direct,direct,untracked,Moweb,"Android Phone","Chrome Mobile",other
+euz7hnwvlw,06-04-2013,06-04-2013,MALE,47,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,FR
+lu3uav49o5,25-06-2014,,MALE,NULL,google,12,en,direct,direct,untracked,Android,"Android Phone",,NDF
+c99aeih5il,12-05-2013,,FEMALE,21,facebook,0,fr,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+q5n8t6ga84,26-01-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+0ycixagyxn,05-12-2012,,FEMALE,35,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+pjk0h98w31,12-02-2012,24-02-2012,,105,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,other
+2npfi2v5p0,14-01-2014,,FEMALE,27,facebook,0,en,direct,direct,omg,Web,"Mac Desktop",Safari,NDF
+saag3u2n4a,07-01-2014,24-03-2014,MALE,28,facebook,12,en,api,other,omg,Moweb,"Windows Desktop",Chrome,US
+5ey125n80n,06-09-2013,07-11-2013,MALE,36,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+kq7nc1n8xl,07-12-2011,,MALE,24,facebook,3,en,sem-brand,google,untracked,Web,"Windows Desktop",Chrome,NDF
+xe41ft5sbp,02-05-2013,21-12-2013,MALE,31,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+pt1ij4615o,07-02-2012,,MALE,2014,basic,0,en,direct,direct,,Web,Other/Unknown,,NDF
+xosz4cqrnp,09-02-2012,,,NULL,basic,0,en,other,other,tracked-other,Web,"Windows Desktop",Firefox,NDF
+q3dyyh894m,24-10-2013,24-10-2013,,38,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+40nonybse0,17-07-2012,03-08-2012,FEMALE,28,basic,3,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+z0ekvm7wit,02-07-2012,,FEMALE,2014,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+jrv05wz2kt,29-06-2013,02-07-2013,FEMALE,31,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+oh8fpq6ooj,07-06-2012,08-06-2012,,NULL,basic,3,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,ES
+93737x5tvy,16-02-2014,,FEMALE,52,basic,0,en,direct,direct,untracked,Web,iPad,"Chrome Mobile",NDF
+k874mufd1i,24-06-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",NDF
+cp0e1781p6,24-03-2014,,,NULL,basic,25,en,direct,direct,,iOS,Other/Unknown,,NDF
+kjix2gqx9m,05-03-2013,05-03-2013,MALE,26,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+6j176pyofn,08-01-2014,09-01-2014,,NULL,basic,0,en,sem-brand,google,linked,Web,"Mac Desktop",Safari,other
+jpd04cjpz7,10-06-2014,10-06-2014,MALE,25,facebook,24,en,direct,direct,linked,Web,iPhone,"Mobile Safari",IT
+mspie0ylge,07-04-2014,,FEMALE,32,basic,0,en,sem-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+j3hme2dk35,12-01-2014,14-01-2014,,55,basic,25,en,direct,direct,untracked,iOS,iPhone,,US
+z394u5gp1t,16-01-2014,18-01-2014,FEMALE,24,basic,24,en,direct,direct,linked,Moweb,"Mac Desktop",Safari,US
+swhf9vyj8y,27-07-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+or69x0co3z,30-07-2012,,,44,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+mel4c7dldc,27-05-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+ef0y78oxa2,01-03-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+besezdin4c,05-06-2014,,,32,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Firefox,NDF
+jk21e0xr0x,14-08-2013,,,44,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",IE,NDF
+k7o3l0llym,27-12-2012,18-01-2013,,38,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+bkoya8r6po,01-11-2013,01-11-2013,FEMALE,28,basic,12,en,api,other,untracked,Android,Other/Unknown,,US
+70lq7dhq9c,11-11-2013,11-11-2013,FEMALE,32,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+5te5t0m1vc,23-05-2014,,MALE,24,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+bjd8ipe78w,14-10-2013,15-10-2013,,27,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,other
+935cimevu6,03-02-2014,03-02-2014,FEMALE,29,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,other
+evd5ad8ydd,17-06-2014,12-08-2014,,28,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,US
+yf7gvoi5zs,03-09-2012,05-09-2012,FEMALE,28,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+e9bt305afw,30-03-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+25xgy6yevt,14-12-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+v8mldx0hw1,19-06-2014,,FEMALE,52,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",IE,NDF
+7w11hhs9b9,13-03-2014,14-03-2014,FEMALE,30,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,AU
+6gaejbnf7t,08-04-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+8pm3sizjwc,02-10-2013,29-10-2013,,27,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+k3tqtj8wme,28-04-2012,06-05-2012,FEMALE,35,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,FR
+uz06bvmmjt,05-09-2012,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+13ljicwz0d,28-02-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+khcd5h70ov,08-08-2013,,,36,basic,0,en,sem-brand,google,linked,Web,"Mac Desktop",Chrome,NDF
+rlxzi2e8hu,23-06-2014,25-06-2014,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+n1kf6d9h4t,08-12-2013,22-08-2014,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,US
+ec8e5x8kqq,24-02-2014,,MALE,48,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+oxymd9ihzl,03-01-2012,,FEMALE,39,facebook,1,en,sem-non-brand,google,linked,Web,"Windows Desktop",Chrome,NDF
+4ojnuub7s4,06-05-2014,,FEMALE,NULL,basic,0,en,sem-brand,google,untracked,Web,"Mac Desktop",Safari,NDF
+xb7agntlx3,16-04-2013,,MALE,30,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+pp4jjiluag,28-03-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+mkunbqet0h,08-06-2014,09-06-2014,,40,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",US
+7tafomg98p,22-11-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+bnihi7c09a,20-09-2013,,,NULL,basic,0,en,seo,yahoo,linked,Web,"Windows Desktop",IE,NDF
+g48llhbcl4,14-05-2013,,MALE,38,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+30nc9z3r4v,11-03-2012,12-03-2012,FEMALE,30,basic,3,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+q2dkp7t1y0,05-06-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+3x6bpwv4d5,06-01-2014,,MALE,30,facebook,12,en,api,other,untracked,Android,Other/Unknown,,NDF
+jfp9lnbkg2,02-03-2014,,MALE,36,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+fer2cxs6kr,21-06-2013,25-06-2013,FEMALE,35,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,other
+jsogimoij8,02-09-2012,,MALE,55,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+rq0s55t61i,20-08-2012,,MALE,27,basic,3,en,sem-non-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+8lnfs4x784,10-08-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+ex8ledd6yd,12-04-2013,06-07-2013,,55,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,US
+tdld947pdr,10-04-2014,11-04-2014,MALE,27,basic,0,en,direct,direct,untracked,Web,iPhone,,US
+ayhosdsiid,06-06-2014,08-06-2014,MALE,56,google,12,en,direct,direct,untracked,Android,"Android Phone",,US
+wci9raylxt,24-04-2014,,MALE,34,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+yalh8v4c92,04-05-2014,,MALE,36,facebook,23,en,direct,direct,untracked,Android,Other/Unknown,,NDF
+pnupy5myk3,10-03-2014,09-06-2014,FEMALE,27,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,FR
+u2uttay0e8,09-04-2013,10-04-2013,,NULL,facebook,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,ES
+yi0cv78lbx,28-08-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+80zrjk0qvp,12-10-2013,,MALE,34,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+5gugsnw2mx,23-11-2013,,MALE,59,basic,0,en,direct,direct,linked,Web,"Windows Desktop",IE,NDF
+3tizbmafid,16-07-2013,,FEMALE,25,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+uji0x263t3,09-03-2014,,,NULL,basic,23,en,direct,direct,untracked,Android,Other/Unknown,,NDF
+lwnhnd418g,25-05-2013,09-06-2013,FEMALE,22,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,FR
+qb7murpg2o,08-02-2013,18-07-2013,FEMALE,33,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+n92b8k12f8,08-05-2014,,MALE,36,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+lq6fd0zs75,25-11-2013,,,NULL,basic,25,en,direct,direct,linked,iOS,iPhone,"Mobile Safari",NDF
+nxlvvhawm3,14-04-2014,,FEMALE,34,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+295cgil6ag,07-02-2012,,,39,basic,0,en,other,craigslist,tracked-other,Web,"Windows Desktop",IE,NDF
+yk07t25lga,24-02-2014,12-03-2014,FEMALE,46,facebook,0,en,direct,direct,untracked,Web,"Android Tablet",IE,US
+4r7q1rvvzt,28-05-2012,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+sj0f27x20m,23-05-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+jv4ka43ws7,18-02-2014,,FEMALE,33,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+7xic94juqd,11-05-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Firefox,NDF
+egwtjw1u4w,26-08-2011,,,NULL,basic,0,en,seo,google,,Web,Other/Unknown,,NDF
+b0cm091qa1,30-06-2014,30-06-2014,MALE,22,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+f4isb5ceqr,24-04-2012,24-04-2012,MALE,31,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+r6kuogau36,07-06-2014,07-06-2014,,19,basic,0,en,direct,direct,untracked,Web,iPad,"Chrome Mobile",FR
+jkecfijqre,31-03-2014,06-04-2014,FEMALE,39,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+t8op1yh3pb,01-04-2013,,MALE,28,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+m6lvem4h34,14-04-2014,,FEMALE,23,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+hddqnv5wg7,25-06-2014,,FEMALE,37,facebook,0,en,direct,direct,linked,Moweb,iPhone,"Mobile Safari",NDF
+r72xm9gclo,20-02-2014,,,NULL,basic,0,en,content,google,omg,Web,iPad,"Mobile Safari",NDF
+fwx27jt5lq,30-05-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+19xdjxq1ui,19-09-2012,,MALE,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+pmoj391nq0,24-01-2014,,,45,facebook,0,en,content,google,omg,Web,"Windows Desktop",Chrome,NDF
+kqqzthfmtl,16-08-2013,17-08-2013,FEMALE,27,basic,24,en,direct,direct,untracked,Moweb,"Windows Desktop",Firefox,US
+jfzqyufher,08-01-2013,27-01-2013,FEMALE,44,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,US
+hojaws2xuj,18-03-2014,19-03-2014,,33,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,US
+mgykbyhcsu,19-03-2014,19-03-2014,MALE,33,basic,25,en,direct,direct,untracked,iOS,iPhone,"Mobile Safari",US
+uzte93l472,07-09-2013,,,NULL,basic,0,en,sem-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+26xz1gkd0a,19-03-2014,23-03-2014,,38,basic,25,en,direct,direct,untracked,iOS,iPhone,"Mobile Safari",US
+fvim3vmpws,28-10-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+r6i6jdvmdu,18-09-2013,,MALE,33,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+ev7b81od14,11-03-2014,12-03-2014,FEMALE,28,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,US
+fh620zbjpp,13-06-2014,13-06-2014,MALE,70,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+xkdfbwyigx,02-09-2012,,,28,facebook,0,es,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+tjjpohec99,04-05-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+72cfc2sq63,19-11-2011,07-05-2012,MALE,NULL,basic,0,en,seo,google,linked,Web,"Mac Desktop",Firefox,US
+lrhq8uqlo0,12-04-2014,,FEMALE,22,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+hcfmbb9tel,09-05-2012,02-06-2012,MALE,37,facebook,3,en,direct,direct,untracked,Web,"Mac Desktop",Safari,FR
+hnj29m7chc,14-04-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+ibyeepnq52,06-05-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+fld508a5i3,29-07-2013,29-07-2013,MALE,70,basic,0,en,sem-brand,google,linked,Web,iPad,"Mobile Safari",ES
+a9y9b86ej2,28-08-2013,28-08-2013,,32,basic,25,en,direct,direct,untracked,iOS,iPhone,,other
+0a1cgxan7s,19-06-2014,,,NULL,basic,25,en,sem-brand,bing,omg,iOS,iPhone,"Mobile Safari",NDF
+mu4dcy3bji,08-02-2013,,MALE,25,facebook,0,en,seo,facebook,linked,Web,"Mac Desktop",Safari,NDF
+or9k66eoqq,27-06-2014,03-07-2014,,43,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,FR
+rlka4dcbwe,14-09-2012,,MALE,58,facebook,0,en,direct,direct,omg,Web,"Mac Desktop",Safari,NDF
+g9g1a7keyi,30-03-2014,,,NULL,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,NDF
+j6pmhkkxjn,16-07-2013,19-07-2013,MALE,36,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+3dzotpfiau,23-07-2012,26-07-2012,FEMALE,27,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+2cqmzi3tz1,10-05-2014,,,NULL,basic,0,en,direct,direct,linked,Web,iPad,"Mobile Safari",NDF
+3t9iib2by0,21-06-2014,,,NULL,basic,0,en,sem-brand,bing,omg,Moweb,iPhone,"Mobile Safari",NDF
+3ni3zwl2k8,25-07-2011,,MALE,NULL,facebook,0,en,sem-brand,google,untracked,Web,"Mac Desktop",Chrome,NDF
+3fr062pdm2,27-12-2011,,MALE,41,basic,0,en,sem-non-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+8yt6tsq014,21-03-2012,,FEMALE,NULL,facebook,12,en,api,other,untracked,Web,"Mac Desktop",Safari,NDF
+khfnycoblz,29-06-2014,29-06-2014,MALE,27,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+h4pnvq3oux,09-08-2011,,MALE,34,facebook,2,en,other,craigslist,,Web,Other/Unknown,,NDF
+6v2nke2f6q,25-02-2014,,MALE,36,facebook,12,en,api,other,untracked,Android,Other/Unknown,,NDF
+23aw05fbqx,14-02-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+k8cf4gssrz,10-04-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+oq9gsbuuwu,22-06-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+k6tpmxy54r,13-05-2012,,FEMALE,54,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+zibdcpgnkp,03-05-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+vh7ch9tq8u,11-10-2013,,,NULL,basic,25,zh,direct,direct,untracked,iOS,iPhone,,NDF
+yqqvis0pue,27-05-2012,,MALE,33,facebook,0,en,other,craigslist,linked,Web,"Windows Desktop",Firefox,NDF
+ke1vurhz2a,23-05-2014,,FEMALE,27,facebook,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+ehwdhp8ohb,09-02-2014,10-02-2014,,NULL,basic,0,en,direct,direct,omg,Web,"Mac Desktop",Safari,other
+dmqzaxqi60,02-05-2011,09-05-2011,,NULL,basic,2,en,direct,direct,,Web,Other/Unknown,,US
+dse5iytc1w,29-08-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+vnvlqqthuk,17-06-2014,18-06-2014,FEMALE,31,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,US
+0rzno3dhm7,31-08-2013,31-08-2013,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+3n7m3dp2gi,06-06-2014,29-09-2014,,NULL,basic,23,en,direct,direct,untracked,Android,"Android Phone",,US
+fq6psx9sv9,15-05-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",IE,NDF
+fsmc5bdbm8,11-10-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",IE,NDF
+u965okcx0y,04-05-2014,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+s4gm1145sw,16-08-2013,,MALE,38,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+ysj02xs5mv,20-12-2013,19-05-2014,FEMALE,52,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+sjga9kt7ka,09-01-2013,,MALE,42,facebook,0,ru,seo,google,linked,Web,"Windows Desktop",Chrome,NDF
+09c6lvrto3,17-01-2013,,FEMALE,29,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+l19pay870c,17-01-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+ml8zf0z45j,14-08-2012,,FEMALE,NULL,basic,0,en,seo,google,linked,Web,"Windows Desktop",IE,NDF
+q7suu5qfl2,22-01-2014,23-01-2014,FEMALE,29,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+87bgvx8xr8,19-03-2013,,FEMALE,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",IE,NDF
+ei2i8okgq6,25-06-2014,27-06-2014,,NULL,basic,25,en,direct,direct,untracked,iOS,iPad,,US
+d1ojm9m718,25-07-2013,25-07-2013,FEMALE,29,basic,25,en,direct,direct,untracked,iOS,iPhone,,other
+0az2htzerw,07-10-2013,12-05-2014,FEMALE,30,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+ae0i1vn9ur,06-02-2014,23-08-2014,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,other
+5y2brlegch,16-04-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+6gs69pucd0,06-04-2014,,FEMALE,25,facebook,0,en,direct,direct,omg,Web,iPad,"Mobile Safari",NDF
+t99d8l8kx2,11-04-2013,,MALE,47,facebook,0,en,other,facebook-open-graph,tracked-other,Web,"Mac Desktop",Safari,NDF
+5qjfaf20wb,04-03-2013,26-03-2013,MALE,26,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,other
+0juw7ijgso,05-05-2014,06-05-2014,MALE,25,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+db1ftg0phu,28-01-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+jhh61vzi69,07-04-2014,11-05-2014,,36,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,IT
+nw8d35jvfc,05-03-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+xkpg1xc09h,03-02-2013,03-02-2013,FEMALE,22,basic,0,en,sem-non-brand,bing,omg,Web,"Mac Desktop",Safari,US
+424zfw1e9u,17-05-2014,,,NULL,basic,0,en,direct,direct,omg,Web,"Mac Desktop",Firefox,NDF
+ozs4hnu0fd,02-06-2012,,MALE,37,facebook,3,en,direct,direct,untracked,Web,iPhone,"Mobile Safari",NDF
+107c77ju1c,30-03-2012,,FEMALE,33,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+u0kubofatx,31-01-2014,01-02-2014,MALE,86,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,ES
+p3oymv0v6c,24-05-2012,,FEMALE,25,facebook,0,es,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+vxs53hfr3j,26-10-2011,,,NULL,basic,3,en,direct,direct,,Web,Other/Unknown,,NDF
+skrth14l98,04-03-2010,,,NULL,basic,2,en,other,craigslist,,Web,Other/Unknown,,NDF
+gqiugtjdni,04-05-2014,,FEMALE,24,basic,0,en,direct,direct,untracked,Web,"Android Tablet",IE,NDF
+wguaeatngd,01-04-2014,,MALE,2014,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+s79a9g96yi,23-01-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+xoqhcanxax,02-02-2012,22-06-2012,MALE,28,basic,0,en,other,other,untracked,Web,"Mac Desktop",Firefox,US
+eu3vyylirs,13-04-2013,18-04-2013,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",IE,FR
+lw1vgjr76u,05-06-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,NDF
+olre3totq8,21-10-2013,21-10-2013,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+gewz3m9u32,02-07-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+h0g4yvj1xs,24-02-2013,16-05-2013,MALE,32,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+tsm4t71spn,30-05-2014,10-06-2014,FEMALE,24,basic,24,en,direct,direct,untracked,Moweb,iPhone,"Mobile Safari",US
+qqmr1lurkn,10-06-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+i17bbw09kv,13-05-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+duu2nveo2x,26-10-2013,26-10-2013,FEMALE,32,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+2brtii8bof,14-04-2012,18-04-2012,FEMALE,74,facebook,3,en,direct,direct,omg,Web,"Windows Desktop",IE,US
+vlji8fg52x,09-03-2014,,,NULL,basic,24,en,direct,direct,omg,Moweb,"Windows Desktop",Chrome,NDF
+9s4nunf4rf,04-05-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",NDF
+zivpr6c1es,27-08-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+0bvuzmf5bv,02-09-2013,25-12-2013,,69,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+z5kgcugf8x,28-06-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+sygrlfqe80,20-01-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+oyyp17jndy,27-05-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+hrb3acrqgk,28-03-2013,,MALE,29,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+eo55dvqim7,04-04-2012,08-05-2012,MALE,40,facebook,0,en,other,craigslist,omg,Web,"Windows Desktop",IE,US
+ey6oyymx2h,18-03-2014,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",IE,NDF
+4j5caie73w,19-05-2014,,MALE,31,facebook,0,en,direct,direct,linked,Web,iPad,"Mobile Safari",NDF
+ysts753r7a,03-12-2013,,,NULL,basic,0,en,direct,direct,linked,Web,iPad,"Mobile Safari",NDF
+lz1pdpw4jr,25-01-2013,,,NULL,basic,0,en,direct,direct,linked,Web,iPad,"Mobile Safari",NDF
+4lq1zh4zbo,30-04-2012,01-05-2012,FEMALE,35,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,IT
+zw3lmi1exn,30-07-2012,,FEMALE,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+rirkw7az4d,21-02-2014,,FEMALE,47,facebook,0,en,direct,direct,product,Web,"Windows Desktop",Firefox,NDF
+6l2604ggbu,02-02-2014,,,NULL,basic,0,en,remarketing,google,omg,Web,"Windows Desktop",Chrome,NDF
+emen61qsk2,24-04-2013,24-04-2013,,NULL,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,ES
+p0ocp62zpj,19-02-2013,,MALE,52,facebook,0,nl,direct,direct,linked,Web,"Mac Desktop",Firefox,NDF
+7rlpo5dbi2,30-04-2014,,,NULL,basic,0,fr,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+9s6gn435s9,03-09-2013,11-09-2013,,105,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+w0t7vzofxo,08-02-2014,,MALE,27,facebook,12,en,api,other,untracked,iOS,iPhone,,NDF
+hhagajfbnr,22-09-2013,23-09-2013,,33,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,DE
+9tuqtuoifc,26-05-2013,,FEMALE,32,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+bp49wputvk,15-01-2012,,,NULL,basic,2,en,sem-non-brand,google,linked,Web,"Windows Desktop",Chrome,NDF
+3z3xjj7ge5,08-06-2014,09-06-2014,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,US
+jjvddl2vxs,23-02-2013,,FEMALE,25,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+pxlq7sgdsu,27-06-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+gdoosl2qcy,20-10-2013,16-04-2014,FEMALE,32,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+k6falkxafb,24-06-2013,31-10-2013,MALE,28,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,US
+aj9b050hwd,16-08-2013,16-08-2013,MALE,32,basic,0,en,direct,direct,omg,Web,"Windows Desktop",Chrome,US
+1qkbpd7dnf,05-09-2012,,FEMALE,30,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+9hh1aw4i8n,29-05-2014,08-06-2014,FEMALE,26,facebook,25,en,direct,direct,untracked,Web,iPhone,,US
+97hna7w5mt,09-12-2013,,MALE,45,basic,0,en,direct,direct,omg,Web,"Mac Desktop",Safari,NDF
+eqs9r1fhmk,23-05-2012,,FEMALE,41,basic,0,en,seo,google,linked,Web,"Windows Desktop",Chrome,NDF
+z453pb8n14,10-01-2013,,FEMALE,30,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,NDF
+lhccczhe1o,12-04-2012,10-10-2012,FEMALE,27,basic,3,en,other,other,untracked,Web,"Mac Desktop",Chrome,US
+m7fnso6g23,07-01-2013,,MALE,46,basic,0,en,sem-non-brand,vast,untracked,Web,iPad,"Mobile Safari",NDF
+wylke28ui9,02-12-2012,03-12-2012,MALE,42,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,other
+lw3kxvic54,24-08-2013,,,NULL,basic,0,en,seo,facebook,untracked,Web,"Mac Desktop",Chrome,NDF
+urnvs7cb02,26-10-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+0a50g6nczb,20-12-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,"Mobile Safari",NDF
+rvtqghkxub,23-12-2012,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+s0howoqrv9,13-06-2014,13-06-2014,FEMALE,47,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,other
+xoanvqrc96,30-10-2013,,,NULL,basic,24,en,direct,direct,tracked-other,Moweb,"Windows Desktop",Firefox,NDF
+humrixgxsa,11-09-2011,,FEMALE,49,basic,3,en,seo,google,omg,Web,"Mac Desktop",Safari,NDF
+wv2ixepe8s,23-10-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+8ocwzlt1ts,14-06-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+6u3orae9nz,14-03-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+jgs3st9v2y,11-06-2014,23-06-2014,FEMALE,47,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,US
+pn4eav2ig3,26-02-2013,28-02-2013,MALE,28,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+2ifwzxkkof,09-06-2014,,,NULL,basic,0,en,sem-brand,bing,untracked,Web,iPad,"Mobile Safari",NDF
+zv7i2niu5d,02-12-2013,24-08-2014,MALE,21,facebook,12,zh,api,other,untracked,iOS,"Mac Desktop",Chrome,US
+5za0pb6l4t,06-06-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+3w08itziim,18-07-2013,,FEMALE,27,basic,0,en,remarketing,google,linked,Web,"Mac Desktop",Safari,NDF
+ud60xj5a83,23-11-2013,27-03-2014,,36,basic,0,en,content,gsp,omg,Web,"Windows Desktop",Firefox,IT
+5alptx6dl0,22-09-2013,23-09-2013,,NULL,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",IT
+7jfq3pdq8d,17-05-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+dbkq3v45ru,16-01-2014,17-01-2014,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+khdemjttcy,22-08-2012,,MALE,25,facebook,3,it,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+89ng38bhga,19-12-2013,,FEMALE,34,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+0wc2sv7erz,17-03-2014,18-03-2014,FEMALE,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+633ttqwu4v,29-09-2013,,,NULL,basic,24,es,sem-non-brand,google,untracked,Moweb,Other/Unknown,,NDF
+5i6oba65jg,06-04-2012,,,NULL,basic,3,fr,other,craigslist,linked,Web,"Windows Desktop",Chrome,NDF
+icaivl5xeo,31-05-2013,13-06-2013,,33,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,other
+t1074jrfq5,13-03-2014,13-03-2014,FEMALE,31,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,US
+3tmo5z9b0n,20-10-2012,,,NULL,basic,12,en,api,other,untracked,Moweb,"Mac Desktop",Firefox,NDF
+nictdjafm2,22-01-2013,22-04-2013,FEMALE,33,basic,0,en,direct,direct,untracked,Web,"Android Phone","Android Browser",US
+lyknwk5o4h,21-04-2014,,MALE,26,facebook,12,en,direct,direct,untracked,iOS,iPhone,,NDF
+jnfwyel81q,22-06-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+xjiejz00s7,21-04-2013,,,NULL,basic,0,fr,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+mljalzz3ve,14-04-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+jw8rffi5lh,12-09-2010,,,NULL,basic,2,en,sem-non-brand,google,untracked,Web,"Mac Desktop",Safari,NDF
+czz2n1qv3u,07-09-2013,09-09-2013,FEMALE,55,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,US
+t6r8fr7i7s,19-05-2010,21-05-2010,FEMALE,57,basic,2,en,sem-non-brand,google,untracked,Web,"Windows Desktop",IE,US
+fnre0hsblg,02-09-2010,05-09-2010,,46,facebook,2,en,other,craigslist,untracked,Web,"Mac Desktop",Safari,US
+hzh80ykgoi,06-02-2013,,FEMALE,39,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+o7z61xtz2d,20-02-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+o80taul5u3,08-07-2013,,,NULL,basic,24,en,direct,direct,untracked,Moweb,iPhone,,NDF
+zopjoy60p8,05-03-2013,07-03-2013,FEMALE,33,facebook,12,en,api,other,untracked,iOS,iPhone,,US
+pqc5xsyj9j,30-08-2013,30-03-2014,MALE,34,facebook,0,en,direct,direct,untracked,Web,iPhone,"Mobile Safari",other
+fuswkkte1w,05-10-2012,08-10-2012,MALE,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+6edxifpxfu,20-06-2014,22-05-2015,FEMALE,NULL,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,US
+jvdrvvablr,15-05-2013,,MALE,28,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+7jm3kwy8rw,24-08-2013,29-08-2013,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,other
+eneqnbftus,16-10-2013,,MALE,33,facebook,0,en,direct,direct,untracked,Web,"Desktop (Other)",Firefox,NDF
+lxjcosootz,29-04-2012,,MALE,34,facebook,0,en,seo,google,linked,Web,iPad,"Mobile Safari",NDF
+wrsfka99er,05-03-2013,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+i2znf3zi55,20-04-2014,20-04-2014,MALE,31,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,GB
+lkgj32hjlv,07-02-2012,08-02-2012,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+1xt6f6wly1,19-05-2013,06-07-2013,MALE,37,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,US
+c188vhor68,04-09-2012,06-09-2012,FEMALE,29,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+skb69pgfzo,11-06-2013,11-06-2013,FEMALE,26,basic,24,en,direct,direct,untracked,Moweb,"Windows Desktop",IE,US
+fqqanmldf9,09-09-2012,14-09-2012,FEMALE,63,basic,3,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,US
+bi87yn9rvj,27-09-2013,,MALE,31,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+bn80m5zbw4,20-12-2013,25-02-2014,MALE,25,basic,0,en,seo,google,untracked,Web,"Mac Desktop",Chrome,other
+2k37sbqbk3,26-03-2014,05-01-2015,FEMALE,40,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,US
+x84l6nf9d5,11-03-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+9rtpjnyznt,12-03-2013,19-07-2013,FEMALE,44,basic,0,en,direct,direct,linked,Web,"Windows Desktop",IE,CA
+pbhjz45zbq,16-04-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+5qhvq5y0zv,06-06-2014,16-06-2014,FEMALE,25,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+6zs7lh6fem,29-03-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+64kxh3kzev,06-06-2014,,,NULL,basic,0,ko,content,google,omg,Web,"Windows Desktop",IE,NDF
+qclypshhmj,25-10-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+y8sa5d4tx1,29-08-2013,18-02-2014,MALE,29,basic,25,en,direct,direct,untracked,iOS,iPhone,,CA
+vfpalo93z5,26-05-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+pxia5b57fo,27-09-2011,,MALE,36,basic,2,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+xo3mmvv088,18-10-2013,,FEMALE,23,facebook,0,fr,content,google,omg,Web,"Mac Desktop",Safari,NDF
+ts82e6ml4v,04-11-2013,,,NULL,basic,0,en,sem-brand,google,untracked,Web,"Mac Desktop",Firefox,NDF
+2u0ltd2ux2,19-11-2012,23-11-2012,FEMALE,27,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,US
+lzo1g2i6jh,20-05-2013,,,NULL,basic,0,en,sem-brand,google,linked,Web,"Mac Desktop",Safari,NDF
+1iaiqdro91,28-05-2011,,,NULL,basic,3,en,direct,direct,untracked,Web,iPhone,,NDF
+y3w4e0r67z,24-02-2014,,FEMALE,33,facebook,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+ec2uieyfcw,21-11-2012,30-11-2012,FEMALE,23,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,US
+r22zwjni1z,06-07-2011,06-07-2011,,NULL,basic,0,en,other,craigslist,,Web,Other/Unknown,,US
+srbfxyguch,22-01-2014,06-02-2014,,23,basic,25,en,direct,direct,untracked,iOS,iPhone,,GB
+obb4z5h40t,26-06-2014,,,NULL,basic,0,en,sem-brand,bing,omg,Moweb,iPhone,"Mobile Safari",NDF
+lioo2vspku,28-02-2013,,MALE,68,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+yydm74uh8t,04-07-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+r9qz90k95m,14-05-2013,16-05-2013,MALE,31,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,US
+3cayiyjlqt,10-07-2013,13-07-2013,FEMALE,65,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,US
+svoamgwckv,01-10-2012,,MALE,28,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+qtyuz570ub,02-02-2012,,FEMALE,49,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+3vv5knw7wf,28-06-2012,28-06-2012,FEMALE,30,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,US
+go32j43002,27-08-2013,29-08-2013,,58,basic,0,en,direct,direct,omg,Web,"Mac Desktop",Safari,US
+o0hdzooku9,26-07-2013,,FEMALE,29,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+69pfzcs1lt,17-02-2014,,,NULL,basic,0,en,seo,google,linked,Web,"Mac Desktop",Safari,NDF
+by0hlfmn0f,11-12-2013,,FEMALE,20,facebook,0,en,other,padmapper,linked,Web,"Mac Desktop",Safari,NDF
+2yja6k51pz,10-01-2013,10-01-2013,FEMALE,58,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,US
+tyvulsnkk7,06-01-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+7fov3d3prr,11-01-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+l1uplo5wii,08-07-2013,,MALE,25,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+9zwhqw2u2o,26-06-2014,,MALE,23,facebook,0,zh,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+y9zdprjhm6,12-06-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+fxpcs3iotn,19-06-2014,19-06-2014,,43,basic,25,en,direct,direct,untracked,iOS,iPhone,,US
+4xlw6o8i5t,08-10-2013,,MALE,24,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+147r6bxp7z,02-06-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+pq5awcsyl4,23-06-2013,,FEMALE,25,facebook,12,fr,api,other,omg,Moweb,"Mac Desktop",Safari,NDF
+x843f26kop,15-01-2013,16-01-2013,MALE,26,facebook,0,ja,direct,direct,linked,Web,"Mac Desktop",Safari,US
+vuyk67jkqe,21-07-2012,22-07-2012,MALE,32,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+zikhc7dxbf,26-03-2014,,,NULL,basic,0,en,seo,yahoo,untracked,Web,iPad,"Mobile Safari",NDF
+3e7oowz9wf,18-11-2013,23-02-2014,FEMALE,44,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,US
+5nigul2j5a,04-04-2014,,MALE,36,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+wzlwh7s9az,30-09-2013,,,NULL,basic,0,en,direct,direct,linked,Web,iPad,"Mobile Safari",NDF
+fnmnqacgfp,03-04-2014,,FEMALE,50,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",IE,NDF
+enqwavyun8,29-06-2014,,FEMALE,35,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+ehj6zuhp6a,10-05-2014,,FEMALE,28,facebook,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+qd6wnrc41d,03-06-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+bsiu2jz2k1,19-12-2013,,,NULL,basic,12,en,api,other,untracked,Android,Other/Unknown,,NDF
+q24zgcjhbs,31-05-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+nyiyyeup8h,02-04-2014,08-04-2014,FEMALE,28,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,US
+h6gz7d4zct,05-02-2011,,FEMALE,50,facebook,2,en,sem-non-brand,vast,,Web,Other/Unknown,,NDF
+7mpa7e304s,04-03-2014,04-03-2014,MALE,65,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,IT
+zrbwvyvu4s,07-04-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+u636d5zg1f,21-05-2014,24-05-2014,MALE,35,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,FR
+p7rdcvjvr3,06-03-2014,10-04-2014,FEMALE,47,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,US
+tblv01e3ke,28-12-2013,30-12-2013,,NULL,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",US
+ut2u3jwrss,29-03-2012,,,27,basic,1,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+4zjgsm52p4,26-06-2014,,FEMALE,24,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+giap5mw56h,09-07-2013,,MALE,44,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+6kdfw3xwmo,25-04-2014,25-04-2014,MALE,48,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,US
+a55j5boiwg,05-10-2012,,,NULL,basic,12,en,api,other,untracked,Moweb,"Windows Desktop",IE,NDF
+chr68gmz2x,24-06-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Firefox,NDF
+2wt3sjirr0,08-03-2014,09-03-2014,FEMALE,23,basic,24,en,direct,direct,untracked,Moweb,"Mac Desktop",Safari,US
+c37znqymn8,17-09-2013,17-09-2013,FEMALE,50,basic,0,en,sem-non-brand,bing,omg,Web,"Windows Desktop",IE,US
+a71pv01gu1,07-01-2014,,,NULL,basic,25,en,direct,direct,,iOS,Other/Unknown,,NDF
+tav8ogc0e0,25-09-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",NDF
+xzn1uvyt1o,22-05-2013,,FEMALE,23,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+32fm5wx0bf,12-02-2012,14-03-2012,,18,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+l8pv13fcgq,12-11-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+gf1i2p15n9,23-09-2011,,,NULL,basic,0,en,direct,direct,tracked-other,Web,"Mac Desktop",Safari,NDF
+x79exc43re,01-06-2014,,,18,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+k5kc4wk7v5,13-08-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+z7gnswbg7g,07-05-2014,,,NULL,basic,23,en,direct,direct,untracked,Android,"Android Phone",,NDF
+gimxqbzed7,07-09-2012,,FEMALE,54,facebook,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",IE,NDF
+s4s527r46z,14-06-2014,,FEMALE,22,facebook,25,en,direct,direct,linked,iOS,iPhone,"Mobile Safari",NDF
+k7irhssjm4,28-02-2012,,FEMALE,25,basic,0,en,sem-brand,google,,Web,Other/Unknown,,NDF
+1hx71k1idd,31-01-2013,,,NULL,basic,25,en,other,other,untracked,iOS,iPhone,,NDF
+ivpunwj6vs,06-01-2014,,,30,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+taszp9212e,20-05-2013,13-06-2013,MALE,29,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,US
+llm6qdl7qf,14-12-2012,,FEMALE,37,facebook,0,en,seo,other,linked,Web,"Mac Desktop",Safari,NDF
+viq6ojbs4g,09-01-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+3hqqhf4cx1,16-02-2014,,FEMALE,37,facebook,0,en,content,google,linked,Web,"Mac Desktop",Safari,NDF
+mxwhcdv7gr,08-10-2012,,MALE,52,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,NDF
+plr3j62rfd,01-04-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+ajviblvkit,14-07-2011,14-07-2011,,NULL,basic,3,en,remarketing,google,,Web,Other/Unknown,,US
+fqol5919x1,20-01-2014,06-02-2014,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,IT
+re17zoyz0b,02-02-2014,,,NULL,basic,0,en,seo,google,untracked,Web,"Windows Desktop",Chrome,NDF
+1110ikn37d,28-10-2013,,,NULL,basic,0,en,sem-brand,google,untracked,Web,iPad,"Mobile Safari",NDF
+aldjthhxsu,27-10-2012,,FEMALE,40,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",IE,NDF
+59dfq2qriv,26-03-2012,05-05-2012,FEMALE,NULL,basic,0,en,sem-brand,google,untracked,Web,"Mac Desktop",Safari,DE
+p8caxb7wj5,31-03-2010,02-04-2010,,37,basic,2,en,other,craigslist,untracked,Web,"Mac Desktop",Firefox,US
+2b532yy6jk,03-05-2013,,,NULL,basic,0,en,sem-non-brand,google,tracked-other,Web,"Mac Desktop",Safari,NDF
+e20icqm0eq,31-08-2011,,FEMALE,33,facebook,3,en,other,craigslist,untracked,Web,"Mac Desktop",Safari,NDF
+gn2nw6j488,28-05-2014,28-05-2014,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,US
+a361hg8yci,10-01-2013,10-01-2013,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+anjbtkof5x,16-03-2014,16-03-2014,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+cf47dqesu0,14-03-2013,10-05-2013,FEMALE,52,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,CA
+3g8ycp4b2l,23-06-2014,26-08-2014,MALE,35,facebook,0,en,direct,direct,linked,Moweb,iPhone,"Mobile Safari",US
+tfojwsquv0,30-08-2010,03-09-2010,MALE,46,facebook,2,en,seo,google,linked,Web,"Mac Desktop",Chrome,US
+7wwzybakw4,31-08-2012,,MALE,30,facebook,0,nl,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+djr3ywyktm,23-12-2013,25-12-2013,,NULL,basic,0,en,other,other,linked,Web,"Mac Desktop",Safari,US
+zkm7ryd828,22-02-2014,,FEMALE,32,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+lw1zq5bmv1,17-06-2012,,,NULL,basic,1,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+ga8nl39pij,28-12-2013,28-12-2013,MALE,34,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+vrqu5b837f,25-01-2012,26-01-2012,,61,basic,2,en,other,other,untracked,Web,"Windows Desktop",IE,US
+y9cc6syyrh,05-11-2013,05-11-2013,MALE,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,IT
+ax0kit6dvk,11-12-2013,12-12-2013,MALE,55,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,US
+d28gvb3nqj,09-10-2013,,,NULL,basic,23,en,direct,direct,untracked,Android,Other/Unknown,,NDF
+jf92ojo564,12-12-2012,11-08-2013,FEMALE,27,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+gdcsd63ecl,21-06-2013,13-02-2014,FEMALE,52,basic,0,en,sem-brand,google,tracked-other,Web,"Mac Desktop",Safari,US
+sy8h5ryy35,11-02-2014,11-02-2014,MALE,41,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,US
+cj9waznn4n,01-04-2014,,,NULL,basic,23,en,direct,direct,untracked,Android,Other/Unknown,,NDF
+g1dn0tycgg,24-11-2013,,MALE,32,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+5653rbbcir,19-06-2013,,FEMALE,50,facebook,0,en,sem-non-brand,google,untracked,Web,"Mac Desktop",Safari,NDF
+a9fjn0hhf7,23-09-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+wnsqsfznw0,02-02-2014,,MALE,52,facebook,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",NDF
+yrauzwa4mn,18-06-2013,,FEMALE,63,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+gvxpzf6ssm,28-08-2013,,FEMALE,29,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+2ewzi71qxz,25-05-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+vochue5m55,21-01-2014,01-12-2014,,NULL,basic,0,en,seo,google,linked,Web,"Windows Desktop",Chrome,other
+wtfnxz9zyu,20-05-2014,25-05-2014,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,other
+q1mq3wzpta,04-07-2012,06-07-2012,MALE,46,facebook,0,en,seo,facebook,untracked,Web,"Windows Desktop",Chrome,US
+by9fbdpgoh,03-06-2012,05-06-2012,FEMALE,26,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,other
+mq8s9hqr81,01-08-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+em0lpzfj1g,18-08-2011,19-08-2011,,NULL,basic,2,en,direct,direct,omg,Web,"Mac Desktop",Safari,US
+fhit2g04w2,23-04-2013,23-04-2013,FEMALE,31,facebook,0,en,other,facebook-open-graph,tracked-other,Web,"Mac Desktop",Chrome,US
+emxqlvd7ys,30-10-2012,,FEMALE,29,facebook,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+gdxe5lo2e5,03-08-2013,,,NULL,basic,12,en,api,other,untracked,Android,"Android Phone","Android Browser",NDF
+ofi0t8ggqg,07-05-2014,08-05-2014,,25,basic,0,en,sem-brand,google,untracked,Web,"Mac Desktop",Chrome,US
+r3hi90hhpf,04-06-2014,,FEMALE,26,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+wxs3iuh2np,18-11-2013,,,NULL,basic,25,en,direct,direct,,iOS,Other/Unknown,,NDF
+g445sqip4c,10-12-2013,,MALE,46,basic,0,en,sem-non-brand,vast,omg,Web,"Mac Desktop",Chrome,NDF
+xekfzbb7kx,12-04-2014,,MALE,NULL,facebook,12,en,direct,direct,linked,Moweb,iPhone,"Mobile Safari",NDF
+2rkjr4ve2i,03-04-2014,,FEMALE,36,facebook,0,en,sem-brand,google,omg,Web,"Mac Desktop",Chrome,NDF
+g2xstwskvo,28-05-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,NDF
+q8lipagkop,17-05-2014,27-05-2014,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,US
+kier6nj3wr,31-05-2014,,,57,basic,25,en,direct,direct,omg,iOS,iPad,"Mobile Safari",NDF
+q93gpekqgq,22-06-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+x2hgz2cw0a,21-07-2013,29-07-2013,MALE,24,basic,0,fr,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+ytmpat5mv2,19-07-2012,,MALE,30,facebook,0,en,direct,direct,product,Web,"Windows Desktop",Chrome,NDF
+37t9z49dsu,20-12-2013,,MALE,35,basic,0,ko,content,google,omg,Web,"Windows Desktop",Chrome,NDF
+jv16vcnnfq,26-07-2013,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+5yo6u44nym,17-01-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,NDF
+mvke4bywnq,08-05-2014,08-05-2014,MALE,26,facebook,0,en,seo,google,untracked,Web,"Windows Desktop",Chrome,US
+5bmfoifcw8,28-01-2013,28-01-2013,,29,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,US
+01v8snvai9,25-05-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+ouies9uz4w,15-10-2012,06-11-2012,FEMALE,46,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+a21k8ftqqa,20-11-2013,,FEMALE,85,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+44rronbaou,22-09-2013,,FEMALE,59,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,NDF
+uc4qk41p6e,29-12-2012,30-12-2012,MALE,36,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+zqpydgdq0f,05-06-2013,,FEMALE,37,facebook,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",NDF
+0mhlyo8zok,17-06-2014,,MALE,28,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Firefox,NDF
+wdafn9i06q,13-12-2013,14-12-2013,FEMALE,23,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+99j6gpdgs6,13-04-2010,18-04-2010,,NULL,basic,3,en,direct,direct,,Web,Other/Unknown,,US
+b5a2skslvj,30-09-2013,18-06-2014,FEMALE,26,basic,24,en,other,meetup,linked,Moweb,"Mac Desktop",Safari,US
+mkwwspl2yz,03-07-2012,,MALE,65,facebook,0,en,sem-non-brand,google,linked,Web,"Windows Desktop",IE,NDF
+l8gvfivgr3,07-09-2011,14-09-2011,FEMALE,41,basic,2,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+fodnqnehby,27-08-2013,27-08-2013,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",IE,US
+ylqchfwukm,07-03-2014,07-03-2014,MALE,20,facebook,0,de,direct,direct,untracked,Web,"Mac Desktop",Chrome,ES
+bu0u5if0mw,21-11-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+0skq57jp66,23-03-2013,24-03-2013,FEMALE,51,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+ddlyo2271i,01-06-2012,11-07-2012,FEMALE,40,basic,0,en,direct,direct,linked,Web,iPad,"Mobile Safari",US
+t5j0at3c1i,18-03-2014,,MALE,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+hk1z1zohis,21-04-2014,22-04-2014,,42,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+rhyd6vln7f,28-02-2012,05-03-2012,FEMALE,33,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,US
+n6gy8gs7e1,11-11-2010,11-11-2010,,38,basic,3,en,direct,direct,omg,Web,"Mac Desktop",Safari,US
+q05f2hndod,18-05-2014,,,NULL,basic,0,en,seo,google,linked,Web,"Desktop (Other)",Chrome,NDF
+h7f0opim3y,18-07-2013,19-07-2013,FEMALE,28,basic,24,en,direct,direct,untracked,Moweb,"Windows Desktop",Chrome,other
+bw8j9vl98e,20-08-2013,,,NULL,basic,0,en,content,google,omg,Web,"Windows Desktop",IE,NDF
+9xyibd1kj8,18-07-2013,,,22,basic,0,en,sem-non-brand,google,omg,Web,iPad,"Mobile Safari",NDF
+4u9bhq0768,12-09-2012,16-04-2013,MALE,31,facebook,0,en,other,other,untracked,Web,"Windows Desktop",Chrome,US
+xhptey03ev,29-06-2014,29-06-2014,,42,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,US
+2ekcink86h,22-05-2014,23-05-2014,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+g11thf2dfr,31-10-2013,,FEMALE,36,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+f2cmtsaewn,17-08-2013,17-08-2013,,27,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,US
+a91xid812z,02-03-2013,04-03-2013,FEMALE,24,facebook,0,en,sem-brand,google,untracked,Web,"Windows Desktop",Chrome,FR
+36pqrjewor,10-07-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Firefox,NDF
+d7nqieexaf,09-04-2014,,FEMALE,43,facebook,0,ko,content,google,omg,Web,"Windows Desktop",IE,NDF
+p5c59gj3iw,01-03-2014,12-03-2014,FEMALE,25,basic,0,en,direct,direct,untracked,Web,iPad,"Mobile Safari",US
+do1ulh1xw6,12-01-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+fcmci6s3xh,21-02-2014,24-02-2014,MALE,25,facebook,12,fr,api,other,tracked-other,iOS,"Mac Desktop",Chrome,FR
+j1q5xau9jq,11-02-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+j54ohsfsy5,16-11-2013,,FEMALE,20,facebook,0,fr,sem-brand,google,omg,Web,"Windows Desktop",IE,NDF
+2tbohy2kia,26-12-2012,27-12-2012,MALE,24,basic,0,ru,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+5o2f1k1msk,07-04-2014,,FEMALE,34,basic,24,en,direct,direct,linked,Moweb,iPhone,"Mobile Safari",NDF
+7tua3w1n06,21-01-2013,,,63,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+novewma5hv,20-06-2012,26-06-2012,FEMALE,40,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,GB
+ke9y26mlf7,18-08-2013,31-10-2013,,32,basic,0,en,other,other,untracked,Web,iPhone,"Mobile Safari",US
+giyfkl5qbd,13-05-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+qzafqwhyvl,09-06-2014,05-01-2015,MALE,38,basic,0,it,direct,direct,untracked,Web,"Windows Desktop",Firefox,other
+rmaayr9ahq,10-05-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Chrome,NDF
+bvqq2h93i0,12-02-2014,12-02-2014,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,other
+sulp57a28t,30-06-2013,,FEMALE,23,facebook,0,en,direct,direct,linked,Web,"Windows Desktop",Iron,NDF
+hazrjds22b,10-02-2014,,,NULL,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+0awc3ykd6e,14-02-2014,11-04-2014,MALE,31,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,US
+f76d7hgkc5,05-09-2012,,MALE,33,facebook,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+0g1r9modd2,19-01-2013,,MALE,33,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+uc76qizzim,24-08-2013,,MALE,NULL,facebook,12,en,api,other,untracked,Moweb,"Windows Desktop",IE,NDF
+5j94njszku,11-04-2014,,FEMALE,60,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+s2hznskht9,29-08-2013,,FEMALE,53,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,NDF
+w21o82sl6a,16-12-2013,16-12-2013,FEMALE,28,basic,0,zh,direct,direct,linked,Web,"Mac Desktop",Chrome,US
+ee5sq7noa5,03-03-2014,,FEMALE,26,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+b893qjc8lb,28-03-2012,02-04-2012,,NULL,basic,0,en,other,craigslist,untracked,Web,"Windows Desktop",Firefox,US
+l5c0gl0ysl,29-01-2012,,MALE,33,facebook,2,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+b7x8krlzo6,23-06-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+tumvlhh0mh,19-03-2013,,FEMALE,NULL,facebook,12,en,api,other,omg,Moweb,"Windows Desktop",IE,NDF
+e7uap4bu7a,01-01-2012,,,NULL,basic,0,en,direct,direct,untracked,Web,iPad,,NDF
+6uwwr7z5yh,30-05-2014,31-05-2014,,31,basic,0,en,sem-brand,google,untracked,Web,iPhone,"Mobile Safari",ES
+dvfj5gytgj,01-04-2014,,MALE,79,facebook,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+a2h5yigxfg,04-03-2014,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+sjozk1xdei,14-03-2014,15-03-2014,MALE,27,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,US
+79udrepfnn,20-03-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+522ma3nndq,20-07-2011,20-07-2011,,NULL,basic,0,en,direct,direct,,Web,Other/Unknown,,US
+u3mo5bo3tj,24-12-2013,,FEMALE,68,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+j3xwzokyuk,10-12-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+bq9wy8qfqu,17-04-2014,17-04-2014,FEMALE,26,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,US
+gisfs621y8,30-12-2013,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+a6nd7fde15,23-01-2014,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Firefox,NDF
+pwtg8e4uxk,03-05-2014,,FEMALE,42,facebook,23,es,direct,direct,untracked,Android,Other/Unknown,,NDF
+inigedq9oy,19-05-2014,23-06-2014,,19,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,US
+2nco02f5ik,05-06-2014,,FEMALE,25,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+8w0x4js9qk,26-04-2014,,FEMALE,28,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Chrome,NDF
+bphx9eoibx,23-12-2013,23-12-2013,MALE,36,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,other
+9fxew80nb0,22-06-2014,,MALE,28,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+w8mjckzy0p,29-06-2014,30-06-2014,FEMALE,31,facebook,0,en,direct,direct,linked,Moweb,iPhone,"Mobile Safari",other
+81zok3gxn5,08-01-2014,,FEMALE,26,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,NDF
+sfr3ps9owx,13-01-2014,,,93,facebook,0,en,direct,direct,untracked,Web,"Android Phone","Android Browser",NDF
+v8w5jnku7q,24-01-2014,,MALE,20,facebook,0,en,other,facebook-open-graph,tracked-other,Web,"Windows Desktop",Firefox,NDF
+me9eaocx3r,01-04-2014,,MALE,45,basic,12,zh,api,other,untracked,Android,Other/Unknown,,NDF
+1xe5q9o497,24-07-2013,31-07-2013,MALE,22,basic,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,US
+2dvauw35o8,20-12-2013,,,NULL,basic,24,en,direct,direct,linked,Moweb,"Android Phone","Android Browser",NDF
+axisz2vzum,29-01-2013,,FEMALE,23,basic,0,en,direct,direct,linked,Web,"Windows Desktop",IE,NDF
+2jtaj4et7g,21-02-2014,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+jhyslwyvsg,17-01-2014,,,NULL,basic,0,en,other,other,tracked-other,Web,"Mac Desktop",Chrome,NDF
+12j3a7erkr,29-11-2012,18-12-2012,FEMALE,40,facebook,0,en,other,padmapper,tracked-other,Web,"Mac Desktop",Firefox,US
+judr4oyqfc,17-05-2012,17-05-2012,FEMALE,36,basic,12,en,api,other,linked,Web,iPad,"Mobile Safari",US
+we1mnvhga6,19-09-2012,,,NULL,basic,12,en,api,other,linked,Web,"Mac Desktop",Firefox,NDF
+hkarz1r9i0,03-02-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Mac Desktop",Safari,NDF
+secpocl3v3,19-08-2013,17-10-2013,MALE,27,facebook,0,de,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,US
+h2h70lye0u,01-05-2013,02-05-2013,MALE,28,facebook,12,en,api,other,untracked,Moweb,iPhone,"Mobile Safari",US
+ue41ozkggf,24-04-2014,29-04-2014,FEMALE,35,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",Chrome,NL
+fvydlhcwpb,27-11-2013,27-11-2013,MALE,35,facebook,0,en,sem-brand,google,omg,Web,"Windows Desktop",Firefox,GB
+tiyzzab0tq,15-05-2013,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+uwoownjlfs,09-06-2014,,,NULL,basic,25,de,direct,direct,untracked,iOS,iPhone,,NDF
+sy5121jc0d,05-08-2013,14-08-2013,,NULL,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,US
+ckd4t3rmxv,20-01-2014,,,NULL,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,NDF
+4xmu1yi3wh,29-01-2014,,FEMALE,29,facebook,12,en,api,other,omg,iOS,"Android Tablet",IE,NDF
+lgpozgq23u,08-05-2013,08-05-2013,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",IE,US
+30qtwgoyrv,12-05-2014,,MALE,25,basic,0,en,sem-brand,google,omg,Web,"Mac Desktop",Safari,NDF
+c62im29tze,22-04-2014,20-03-2015,FEMALE,37,basic,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,FR
+871635lrit,19-03-2011,,,NULL,basic,0,en,seo,google,untracked,Web,iPad,"Mobile Safari",NDF
+wf33md7rq7,18-01-2014,18-01-2014,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Mac Desktop",Chrome,US
+3jmd8727vj,14-02-2013,,MALE,34,facebook,0,en,direct,direct,untracked,Web,"Windows Desktop",Chrome,NDF
+yxmyr2nkph,13-07-2012,30-08-2012,MALE,50,basic,0,en,direct,direct,untracked,Web,"Windows Desktop",IE,FR
+1vt8b4supm,11-06-2013,02-07-2013,,NULL,basic,0,en,sem-brand,google,linked,Web,iPad,"Mobile Safari",FR
+nj8s7macu8,22-02-2014,,FEMALE,24,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
+kllsmnubuw,17-02-2013,,MALE,44,basic,0,en,seo,google,linked,Web,"Mac Desktop",Chrome,NDF
+uiwzy1g4bb,25-06-2014,10-03-2015,,NULL,basic,0,sv,direct,direct,untracked,Web,"Mac Desktop",Chrome,other
+7ed0sws4w8,04-02-2013,,,NULL,basic,0,en,sem-non-brand,google,omg,Web,"Windows Desktop",Chrome,NDF
+apajg5983r,18-09-2011,29-09-2011,FEMALE,NULL,basic,2,en,direct,direct,untracked,Web,"Mac Desktop",Firefox,US
+po340nz34c,04-04-2012,25-10-2012,MALE,59,basic,1,en,direct,direct,linked,Web,"Mac Desktop",Firefox,US
+0g5xz84xl2,14-08-2013,,MALE,47,facebook,0,en,direct,direct,untracked,Web,"Mac Desktop",Safari,NDF
+eiu7wo6rfd,24-08-2012,,,NULL,basic,0,en,direct,direct,linked,Web,"Windows Desktop",Chrome,NDF
+kqu78eefxq,12-01-2014,13-01-2014,MALE,NULL,basic,0,en,direct,direct,linked,Web,iPad,"Mobile Safari",US
+1mync0p4pj,01-11-2013,,,NULL,basic,25,en,direct,direct,untracked,iOS,iPhone,,NDF
