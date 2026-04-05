@@ -20,37 +20,38 @@ Analyze user behavior and journey on the Airbnb platform. Identify key drivers o
 ### **Context Highlights:**
 In a highly competitive digital marketplace, every user interaction—from first visit to final booking. Analyzing these user journeys across devices and channels helps uncover key touchpoints that drive engagement, retention, and conversion.
 The insights generated from this analysis help businesses to:
-    * Airbnb operates in a multi-device, multi-channel environment
-    * Users interact via web, mobile, and different acquisition channels
-    * Understanding user journey helps improve:
-      * Conversion rates
-      * User engagement
-      * Marketing ROI 
- ---
+   * Airbnb operates in a multi-device, multi-channel environment
+   * Users interact via web, mobile, and different acquisition channels
+   * Understanding user journey helps improve:
+       * Conversion rates
+       * User engagement
+       * Marketing ROI 
+---
  
 ## 🗂️ Data Overview & Schema     
 ### **Data Source:**  
-   * Source:  Institutional placement dataset (simulated academic dataset)
-   * Data Type:  Structured student-level records
-   * Time Period:  Academic Year 2025–26
+   * Source: Airbnb User & Session Dataset
+   * Data Type: Structured (Relational Tables)
+   * Time Period: 2010 – 2014
 ### **Data Structure & Metrics:** 
-   * Key Index Type: Student-level unique ID
-   * Total Rows: 215
+   * Key Index: user_id
+   * Total Rows: ~100K+ session records
    * Categories:
-     * Demographics: Gender, Work Experience
-     * Academics: Degree Type, Specialization, CGPA
-     * Placement: Placement Status, Salary
+     * User Data: Gender, Signup Method, Device
+     * Session Data: Actions, Duration, Device Type
+     * Marketing Data: Affiliate Channels & Providers
    * Calculated Metrics:
-     * placement_flag (1 = Placed, 0 = Not Placed)
-     * Placement Rate %
-     * Average Salary
-     * Degree-wise Placement Distribution
+     * Conversion Rate (%)
+     * Session Engagement Rate
+     * Average Session Duration
+     * Average Devices per User
+     * Total Time Spent per User
  ---
  
 ## 💻 Tech Stack    
 ### **Tools:**
-   * **Excel**
-      * Data cleaning & preprocessing
+   * **SQL** 
+      * Data extraction & business question analysis
    * **Power Query**
       * Data Transformation & Shaping
       * Column Standardization
@@ -58,7 +59,7 @@ The insights generated from this analysis help businesses to:
    * **Power BI**  
       * Dashboard & Visualization
       * Data Modeling & Relationship Building
-      * DAX (DAX – KPI Calculations Columns & Measures)
+      * DAX – KPI Calculations Columns & Measures
       * Slicers & Dynamic Filtering
    * **PowerPoint**
       * Presentation and final dashboard snapshots
@@ -67,108 +68,85 @@ The insights generated from this analysis help businesses to:
 ## 📈 Methodology & Analysis  
 ### **Preparation, Process & Analytical Approach:** 
    * **Data Preparation & Cleaning:**
-       * Removed missing and inconsistent values 
-       * Standardized categorical fields
-       * Validated salary and placement records
+       * Handled missing values (e.g., gender, country)
+       * Standardized device types & signup apps
+       * Removed inconsistencies in session data
    * **Data Modeling & Integration:**
-       * Built an optimized data model
-       * Established relationships between academic and placement dimensions
+       * Joined users and sessions tables
+       * Created unified dataset: countries_users_sessions
    * **Feature Engineering:**
-       * Created placement_flag metric
-       * Derived Placement Rate %
+       * Booking Status (Booker vs Looker)
+       * Session Engagement Rate
+       * Conversion Rate
+       * Device Usage per User
    * **Visualization Design:**
-       * Designed KPI Cards for summary metrics
-       * Used Donut Chart for gender distribution
-       * Applied Bar & Clustered Charts for specialization and salary insights
-       * Implemented Interactive slicers for dynamic filtering
+       * Built two interactive Power BI dashboards
+       * Used clear KPI cards & supporting visuals
+       * Consistent color theme & layout
    * **Validation & Formatting:**
-       * Verified KPI calculations against raw totals
-       * Applied consistent dashboard theme and formatting
-       * Optimized layout for executive readability
+       * Cross-validated SQL results with Power BI
+       * Applied percentage formatting & clean labeling
 ---
  
 ## ❓ Problem Statements
-Institutions collect placement data but often lack a centralized analytical dashboard to evaluate performance drivers in a structured manner.
-This results in limited visibility into:
-   * Overall placement efficiency and conversion rates
-   * Degree-wise placement contribution and disparities
-   * Specialization-level performance differences
-   * Gender-based salary variations
-   * Academic background impact on salary outcomes
+Understanding how users interact with the platform at each stage of their journey is crucial to identifying friction points and unlocking growth opportunities. These questions form the foundation of a data-driven approach to evaluate user behavior and support strategic decision-making.
+Therefore, this analysis focuses on the key drivers of user behavior, engagement, and conversion.
 
 ### Key Questions:
-   *  What is the overall placement rate of the college?  
-   *  How many students are placed vs unplaced?
-   *  Which specialization (Marketing & Finance vs Marketing & HR) delivers stronger placement and salary outcomes?
-   *  How does degree type (Commerce & Management, Science & Technology, Others) influence placement success?
-   *  Is there a gender-based salary gap?
-   *  What are the average and maximum salary levels across segments?
-   *  How does academic background drive salary performance?
-   *  Which student segments contribute most to overall placement outcomes?
-   *  How can these insights help improve training focus and placement strategy?
+   * Who are the users and how do they interact with Airbnb?
+   * Which devices and platforms drive engagement?
+   * Which marketing channels bring the most users?
+   * Which channels convert users into bookings?
+   * Who are the most valuable and active users?
+   * How does user behavior impact conversion?
 ---
 
 ## 💡 Key Insights      
 ### **Top Findings:** 
-   * ~69% placement rate (148 of 215 students)
-   * Marketing & Finance specialization shows stronger placement and salary performance
-   * Science & Technology students achieve highest average salary (~₹0.22M)
-   * Commerce & Management has highest student participation (145 students)
-   * Male students show higher average salary compared to female students
-   * Clear positive relationship between academic background and salary
+   * ~41% overall conversion rate indicates strong booking performance
+   * Desktop is the dominant entry device for users
+   * Direct channel contributes the highest number of users and bookings
+   * Mobile App shows higher conversion rate compared to Mobile Web
+   * Multi-device users show higher engagement levels
+   * A small group of users contributes disproportionately to session activity
 
 ### **Supporting Metrics:**
-   * Total Students: 215
-   * Placed Students: 148
-   * Unplaced Students: 67
-   * Placement Rate: 68.84%
-   * Average Salary: ₹198.70K
-   * Maximum Salary: ₹940K
-   * Commerce & Management: 145 students
-   * Science & Technology: 59 students
-   * Others: 11 students
+   * Total Users: 2,500
+   * Total Bookings: 1,035
+   * Conversion Rate: 41.40%
+   * Avg Session Duration: ~1,098 seconds
+   * Top Channel: Direct (~70%+ contribution)
 ---
  
 ## 📍 Conclusion
 ### **Summary:** 
-The placement analysis of Academy for Business Careers, Data & Entrepreneurship (ABCDE) reveals clear and measurable trends in student performance and employment outcomes.
-  
-   * Science & Technology students achieve the strongest salary outcomes, while Commerce & Management has the highest student participation. A clear performance gap is visible across degree types.
-  
-   * Specialization and gender influence placement and salary outcomes, with Marketing & Finance demonstrating stronger placement efficiency and higher salary performance compared to other specializations.
-  
-   * The interactive dashboard provides a comprehensive, data-driven view of placement performance, enabling administrators to refine training strategies, align curriculum with industry demands, and identify improvement areas across student segments.
-  
-   * Overall, this project demonstrates how structured analytics and visualization can strengthen institutional decision-making, improve placement strategies, and enhance student career outcomes.
+   * User behavior is strongly influenced by device type and entry channel.
+
+   * Direct and organic channels are key drivers of growth.
+
+   * Mobile platforms offer strong conversion opportunities.
+
+   * High-engagement users are critical for platform success.
+
+   * Optimizing user journey can significantly improve conversion rates.
 ---
  
 ## 🖥️ Dashboard Overview
 ### Placement Overview
-![image alt](https://github.com/Cnik1710/Academy-for-Business-Careers-Data-Entrepreneurship-ABCDE-Placement-Analysis/blob/e1014362014fc2e85f4311d5cc15bdbfe0198f0a/04.%20Academy%20for%20Business%20Careers%2C%20Data%20%26%20Entrepreneurship%20(ABCDE)%20-%20Placement%20Analysis%20Dashboard.png)
+![image alt]()
 
 ---
  
 ## ✅ Business Impact & Use Cases   
-  * **College Administration & Management:**
-      * Leverage placement analytics to evaluate program-level performance
-      * Identify academic strengths and gap areas
-      * Plan strategic improvements in curriculum and training initiatives
-  * **Training & Placement Cell:**
-      * Monitor placement trends and conversion rates
-      * Target underperforming student segments and specializations
-      * Strengthen industry partnerships through data-backed reporting
-  * **Faculty & Academic Departments:**
-      * Understand how degree type and specialization influence placement outcomes
-      * Align curriculum with high-performing academic domains
-      * Guide mentorship using performance-based insights  
-  * **Students & Career Advisors:**
-     * Understand how specialization, and academic background impact salary outcomes
-     * Make informed decisions about career focus and skill development
-     * Set realistic expectations regarding placement and compensation trends
-  * **Recruiters & Industry Partners:**
-     * Identify high-performing academic segments
-     * Access data-backed insights on student quality and specialization strengths
-     * Optimize recruitment strategy and hiring pipelines
+This project demonstrates how transforming user data into actionable insights helps uncover behavior patterns, enabling smarter decision-making, optimizing user experience, and driving engagement, conversion, and sustainable business growth. Insights generated from this dashboard support data-driven strategy decisions.
+  
+  * Marketing Optimization: Identify high-performing channels and reallocate budget to maximize ROI while reducing acquisition costs.
+  * Channel Growth Strategy: Scale high-conversion channels and replicate successful acquisition strategies to drive sustainable growth.
+  * User Experience Enhancement: Improve mobile and platform experience by reducing friction and increasing user engagement.
+  * High-Value User Targeting: Focus on high-intent and high-engagement users to boost retention and maximize lifetime value.
+  * Conversion Improvement: Optimize key touchpoints in the user journey to reduce drop-offs and increase booking rates.
+  
+  * Data-Driven Decisions: Leverage insights to align product, marketing, and business strategies with actual user behavior
 ---
  
 ## 🙏 Acknowledgements & Contact 
