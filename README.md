@@ -132,8 +132,11 @@ Therefore, this analysis focuses on the key drivers of user behavior, engagement
 ---
  
 ## 🖥️ Dashboard Overview
-### Placement Overview
-![image alt]()
+### User Journey Overview
+![image alt](https://github.com/Cnik1710/AirBnb-User-Journey-and-Growth-Analysis/blob/e9b79ebe6c31784b4f781b9a292c46919502da92/07.%20Airbnb%20-%20User%20Journey%20%26%20Growth%20Analysis%20(1)%20Dashboard.png)
+
+### Growth Analysis
+![image alt](https://github.com/Cnik1710/AirBnb-User-Journey-and-Growth-Analysis/blob/e9b79ebe6c31784b4f781b9a292c46919502da92/08.%20Airbnb%20-%20User%20Journey%20%26%20Growth%20Analysis%20(2)%20Dashboard.png)
 
 ---
  
